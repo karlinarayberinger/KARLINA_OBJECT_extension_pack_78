@@ -13,3 +13,23 @@ karbytes:
 Verify that every URL in the following plain-text file exists (i.e. does not return a "404 resource not found" result):
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/journal_karbytes_16september2026_p1.txt
+
+ChatGPT:
+
+[Worked for 6m 43s]
+
+Not every URL exists. I found **263 distinct URLs** in [journal_karbytes_16september2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/journal_karbytes_16september2026_p1.txt):
+
+* **260 return HTTP 200**
+
+* **3 return HTTP 404 with `404: Not Found`**
+
+The broken URLs are:
+
+1. [`drums_karbytes_13september2026_p0.mp4`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_13september2026_p0.mp4)
+
+2. [`karbytes_social_media_posts.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/karbytes_social_media_posts.txt)
+
+3. [`unlisted_web_page_karbytes_social_media_posts_koep78.html`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/unlisted_web_page_karbytes_social_media_posts_koep78.html)
+
+All other URLs—including `12sep2026_p135.jpg`, the corrected `13sep2026_p62.jpg`, and the square-bracketed `obs_studio_recording_14september2026_p0_[abridged].mp4`—exist and return HTTP 200.
