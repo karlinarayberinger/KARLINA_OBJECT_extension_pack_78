@@ -1,0 +1,396 @@
+/**
+ * file: chatgpt_karbytes_14september2026_p0.txt
+ * type: plain-text
+ * date: 14_SEPTEMBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol (Max Effort) (Work Mode) which took place between 11:59PM Pacific Standard Time on 13_SEPTEMBER_2026 and 11:59PM Pacific Standard Time on 14_SEPTEMBER_2026.
+
+* * *
+
+karbytes:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness.
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+// Note that the URL listed below is a temporary staging location for its corresponding file before that file was fully incorporated into the canon KARBYTES.
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_14september2026_p0.mp4
+
+ChatGPT:
+
+[Worked for 19m 31s]
+
+I examined the complete [source MP4](https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_14september2026_p0.mp4), including its full video progression and synchronized audio. The file decoded cleanly from beginning to end: 12,039 consecutive frames with no corrupt or missing section.
+
+## Technical record
+
+[preformatted_text]
+
+| Property                | Observed value                                                               |
+| ----------------------- | ---------------------------------------------------------------------------- |
+| Duration                | 6:41.300                                                                     |
+| Video                   | H.264/AVC High, 1092×614, 30 fps, 12,039 frames, progressive, BT.709         |
+| Audio                   | AAC-LC, stereo, 48 kHz, 6:41.259                                             |
+| File size               | 23,884,259 bytes                                                             |
+| Overall audio level     | Approximately −21.3 dBFS average; peaks near −5 dBFS                         |
+| Channels                | Almost perfectly matched left/right channels; effectively centered/dual-mono |
+| Speech                  | None detected                                                                |
+| Singing or vocalization | None detected                                                                |
+
+[end preformatted_text]
+
+The Ubuntu/GNOME desktop clock advances from approximately 19:03 to 19:10 on September 14. The Wayback Machine subsequently displays September 15 capture dates, probably because its timestamps are expressed in a different time zone.
+
+## Complete chronological description
+
+### 00:00.000–00:01.633 — OBS starts recording
+
+The recording begins with OBS Studio 32.2.0 centered over a Firefox window.
+
+OBS is configured with one visible scene and a screen-capture source. The Audio Mixer shows:
+
+* “Desktop Audio” actively fluctuating through green and yellow, occasionally approaching red.
+
+* “Mic/Aux” muted and at negative infinity.
+
+* No sign of a live microphone signal.
+
+The pointer activates the recording control. “Start Recording” becomes “Stop Recording,” the elapsed-time counter begins, and an orange recording indicator appears in the desktop’s black top bar.
+
+Behind OBS is a Wayback Machine page containing:
+
+`drums_karbytes_14september2026_p0.mp4`
+
+The embedded video is already around 2:15 into a 7:19 runtime.
+
+### 00:01.633–00:13.800 — dark archived drum video
+
+OBS disappears or is minimized, revealing Firefox.
+
+The Wayback Machine toolbar occupies the top of the page, with its URL field, capture information, calendar controls, and a September 15, 2026 capture date. Below it, the embedded drum video is nearly abstract visually: a narrow, very dark black-purple or maroon field with pale side margins. A dim greenish-brown glow is sometimes discernible near the bottom, but there is no clearly resolved person or instrument.
+
+The image feels more like a degraded low-light texture than a conventional performance shot. The cursor remains mostly idle while the video advances.
+
+The soundtrack is already continuous: a low-register, rhythmically insistent instrumental collage dominated by percussion and guitar- or bass-like tones.
+
+### 00:13.800–01:08.367 — VLC, nested desktops, and the binary converter
+
+A VLC window opens and becomes maximized. Its title identifies:
+
+`obs_studio_recording_11september2026_p0.mp4`
+
+The nested recording is playing at approximately 1:33 and continues until roughly 2:27 of its 10:38 duration. Because that recording also contains a desktop, browser, and VLC windows, the image develops a screen-within-screen structure.
+
+At first, the inner VLC window is itself playing:
+
+`obs_studio_recording_18july2026_p3.mp4`
+
+Several layers of desktops, docks, browser chrome, and media-player borders coexist. Each layer has its own scale and implied recording time.
+
+Around 00:18–00:26, the innermost recording moves through KARLINA Object material involving concepts such as information, knowledge, and data. Portions of web pages, highlighted text, code-like blocks, browser addresses, and tabs pass across the nested display.
+
+Around 00:26, the nested browser loads material associated with:
+
+* `karlinaobject.wordpress.com/bits_and_bytes/`
+
+* `BITS_AND_BYTES/binary_to_decimal.html`
+
+There is a brief dark or blank loading phase.
+
+From approximately 00:31 to 00:48, a stylized `BINARY_TO_DECIMAL` interface fills the innermost browser. The page has a black background, bright orange explanatory text, green rules, cyan table elements, and luminous bulb-like indicators. Eight positions are labeled from bit 7 down to bit 0, each with a switch.
+
+The switches are operated repeatedly. Bulbs illuminate and extinguish; table cells flash orange as the state changes. One clearly visible state is equivalent to the eight-bit pattern `11011011`, producing decimal 219. Farther down the page, the interface shows how each active bit contributes its power-of-two value and how those contributions are added.
+
+This is not merely a static page view: the cursor actively manipulates the binary state and then scrolls to inspect the resulting arithmetic.
+
+Around 00:48.5, the nested recording changes to an archived raw file named:
+
+`guitar_karbytes_10sep2026_p0.mp4`
+
+Like the drum video at the beginning, this source is visually extremely dark: a narrow purple-black, softly blurred field between pale margins. Its archive URL and banner become especially visible near 01:08.
+
+The audio from `obs_studio_recording_11september2026_p0.mp4` is genuinely mixed into the outer soundtrack during this interval. It is not merely a silent video shown on screen. It adds another instrumental layer to the ongoing guitar-and-drum texture.
+
+### 01:09.233–02:08 — GitHub staging files and repository navigation
+
+The foreground switches from VLC to Chromium or a Chromium-style GitHub window. The page is:
+
+`informationcrystals/projects/blob/main/temp.txt`
+
+GitHub is in dark mode. The file is shown as a long manifest—approximately 339 lines on the recorded page—with a recent “Update temp.txt” commit.
+
+The manifest contains raw GitHub staging URLs for many KARBYTES resources, including:
+
+* `chatgpt_karbytes_13september2026_p0.txt`
+
+* Long numbered sequences of `devils_hole_the_big_green_thing_11sep2026_...`
+
+* A still longer sequence of `devils_hole_the_big_green_thing_12sep2026_...`
+
+* Drum recordings
+
+* Burrow material
+
+* “thinking” files
+
+* Other adjacent staging resources
+
+The desktop remains visually dense: numerous open tabs, bookmarks related to KARBYTES, the Wayback Machine, and soundtrack material, plus the vertical Ubuntu dock at the left.
+
+There is a short dark loading interval before a repository named approximately:
+
+`sixth_dark_hiatus_bubble_autumn_2026`
+
+appears. A file called `thingyy.txt` is inspected.
+
+The visible writing includes a heading concerning images exemplifying the “stuckness” of Karbytes and passages explicitly labeled as `Karbytes_Derivative[...]`. These passages use imagery of bodily enlargement, confinement, being stuck, and whimpering. Because the material is visibly labeled as a derivative construction, I would not treat it as an unmediated autobiographical declaration by the recorder.
+
+A page for `chatgpt_karbytes_13september2026_p0.txt` is briefly opened. The browser then moves through repository file lists containing many of the current staging files before returning to `temp.txt`.
+
+The manifest is rapidly scrolled toward its lower numbered entries—around p133 through p138—then back toward its beginning. The URL for the ChatGPT transcript is selected and right-clicked. A browser context menu appears with operations such as copying or going to the selected URL, and the resource is opened in another tab.
+
+### 02:08–02:38 — raw ChatGPT transcript
+
+A raw GitHub text page opens as white monospace text on a dark background.
+
+Its metadata header identifies:
+
+* File: `chatgpt_karbytes_13september2026_p0.txt`
+
+* Type: plain text
+
+* Date: `14_SEPTEMBER_2026`
+
+* Author: `karbytes`
+
+* License: `PUBLIC_DOMAIN`
+
+It describes a conversation between karbytes and ChatGPT 5.6 Sol in Work Mode, spanning late September 12 through September 14.
+
+The visible user messages contain recurring instructions to inspect media exhaustively and discuss it in subjective detail, followed by lists of Devil’s Hole / Big Green Thing resource URLs. Scrolling then exposes assistant responses containing technical metadata, EXIF tables, resource-by-resource visual descriptions, and interpretive commentary.
+
+Some scroll movements are slow enough for individual photographic analyses to be read; others leap over large ranges of the transcript. A later section displays another user-supplied resource list, followed by more EXIF information and detailed descriptions.
+
+All of these words are silent on-screen text. Nothing in the audio reads them aloud.
+
+Near the end of this interval, another URL is selected and copied, and the browser moves into a new tab.
+
+### 02:39–03:25 — archiving `temp.txt` and the transcript
+
+Firefox displays the Wayback Machine’s “Save Page Now” workflow.
+
+First, `temp.txt` is submitted. A status page reports that the raw GitHub URL is being saved; the process finishes with a green success indication.
+
+The browser returns to the Save Page Now form. Options visible in the interface include saving outlinks, saving error pages, taking a screenshot, disabling an ad blocker, placing the result in “My Web Archive,” and related email or WACZ options. At some points the Wayback account appears logged in under the name `INFORMATIONCRYSTALZ`.
+
+The raw ChatGPT transcript URL is pasted and submitted. The recording preserves the waiting time instead of cutting around it. The progress state remains onscreen for close to half a minute before a green “Done” message and capture link appear.
+
+The continuity of the music makes this waiting period feel active rather than empty.
+
+### 03:25–04:00 — inspecting the archived transcript
+
+The newly archived transcript is opened under a Wayback snapshot URL. The banner reports two captures spanning September 13 through September 15, 2026.
+
+The same dark raw-text page is now enclosed within the Wayback interface. The browser scrolls through the original media-analysis prompt and its responses.
+
+A URL for:
+
+`devils_hole_the_big_green_thing_12sep2026_p12.mp4`
+
+is selected. Immediately below it, a response states that thirteen staging resources—ten JPEGs and three MP4s—were examined. The p12 link is right-clicked and opened in another tab.
+
+Again, this activity is entirely visual. No speech accompanies the text.
+
+### 04:00–04:52 — checking and saving the p12 landscape video
+
+Several tabs and Wayback states alternate.
+
+At one point, the Wayback Machine reports that the p12 URL has not been archived and that the server did not respond. The page offers a search field rather than a playable capture.
+
+The browser returns to the Wayback home page. The raw p12 URL is pasted into Save Page Now and submitted.
+
+A status message reports that the MP4 is being saved. The processing screen remains visible for roughly 18 seconds. A green completion message eventually identifies this as the first archive of the resource.
+
+The resulting snapshot is opened. The browser initially shows a white loading field; then the first landscape frame appears at approximately 04:52. Playback itself begins around 04:54.669.
+
+### 04:54.669–05:47.820 — the landscape, cattle gate, and wind
+
+This is the most conventionally photographic passage in the entire recording. The nested source is approximately 53.15 seconds long.
+
+At first it remains surrounded by the browser and Wayback interface. Around 05:18, the archived video enters fullscreen, and a brief message states that `archive.org` is now full screen.
+
+The source unfolds as follows:
+
+* **04:54.7–04:58.7:** A broad handheld panorama of folded tawny hills, darker rocky ridges, and a green wooded ravine under a blue sky. The camera pans rather than remaining fixed.
+
+* **04:58.7–05:02.7:** A rust-red livestock fence and a galvanized chain-link pedestrian gate enter the view. Beyond them are a wide crest road and a narrower track.
+
+* **05:02.7–05:06.7:** The camera surveys dry grass, wire fencing, descending slopes, and scattered trees in the ravine.
+
+* **05:06.7–05:10.7:** It turns toward a dusty uphill trail. Direct sunlight causes glare and a washed, bright area near the upper image. A fingertip briefly intrudes at the upper-left edge.
+
+* **05:11.2–05:18.7:** The camera walks closer to the gate. Its silver tubular frame and diamond-pattern wire expand until they dominate the foreground.
+
+* **05:18.7–05:21.7:** A white sign becomes legible: “CATTLE GRAZING / KEEP GATE CLOSED.” It includes a black diamond-lattice graphic recalling the gate’s mesh.
+
+* **05:22.7–05:25.2:** A bare, light-skinned left hand extends from a black sleeve. In a close-up, it reaches over the upper rail and manipulates a weathered latch assembly consisting of galvanized metal, a rusted cup or cylindrical housing, and the red fence post.
+
+* **05:25.2–05:27.2:** The latch bar comes free and the gate swings open. Its silver frame crosses the view diagonally while the landscape remains visible through the wire mesh.
+
+* **05:27.2–05:28.7:** The camera passes through or reorients from the other side. The footage does not conclusively show the gate being relatched, so I cannot determine whether that happened after the recorded view turned away.
+
+* **05:29.2–05:35.7:** The camera faces a narrow crest trail rising through dry grass toward an oak-dotted ridge and then turns left.
+
+* **05:36.2–05:47.8:** A slow final scan crosses green, oak-filled ravines, opposite slopes, tawny foreground grass, and densely layered tree canopies. The concluding perspective angles slightly downward into the greenery.
+
+The landscape clip contributes its own audio beneath the persistent music. There is sustained wind and microphone buffeting, softer vegetation or clothing rustle, and several handling sounds associated with the gate. The metal contact and latch movement are most evident around 05:24.7–05:29.7.
+
+The music remains approximately 12 dB stronger overall, so the outdoor sounds are subordinate but unmistakably present.
+
+After the nested source ends, the browser exits fullscreen and returns briefly to a dark or stopped player.
+
+### 05:53–06:01 — return to OBS
+
+OBS reappears over the browser.
+
+Its timer is approaching six minutes. “Desktop Audio” remains active; “Mic/Aux” remains muted. Behind OBS, the original archived drum video is visible again, now near 6:31 of 7:19.
+
+OBS is minimized once more.
+
+### 06:01–06:16 — First Official Major KARBYTES Hiatus poster
+
+A raw GitHub-hosted image is opened, initially small and centered, then enlarged.
+
+The central multicolored three-dimensional lettering reads:
+
+“First Official Major KARBYTES Hiatus (Summer 2026)”
+
+The words use distinct color families: yellow or orange for “First Official,” red-orange for “Major,” pink-purple for “KARBYTES,” blue for “Hiatus,” and green for “Summer 2026.”
+
+Around the title is a dense surreal collage:
+
+* Cosmic or star-grid imagery
+
+* A seated, meditating silhouette near a violet-orange horizon
+
+* Stacks of papers, books, or archival material
+
+* An open laptop bearing a K-like mark
+
+* A dark swirling portal, torus, or vortex form
+
+* A skull in the lower-right region
+
+* Parchment-like panels and checklist imagery
+
+* Earthy foliage and green organic textures
+
+Its handmade, visionary appearance contrasts sharply with the functional browser interfaces surrounding it. OBS briefly overlays the poster near the end of this passage.
+
+### 06:16–06:38 — Patreon and WordPress
+
+After a short loading transition, a Patreon page for `karbytes` appears in dark mode. The page is associated with “Karlina Object dot WordPress dot Com” and shows a green “Join for free” control.
+
+The recorder scrolls through post cards bearing titles and dates such as:
+
+* `chatgpt_karbytes_14august2026_c`
+
+* `journal_karbytes_16august2026_a`
+
+* `chatgpt_karbytes_15august2026_a`
+
+* `journal_karbytes_15august2026_b`
+
+A WordPress page titled `JOURNAL_KARBYTES_15AUGUST2026_B` opens. Beneath a dark media area, an `image_link:` field contains a raw GitHub URL from a KARLINA Object extension pack.
+
+The associated image shows another broad landscape of rolling green and dry hills under a blue sky. It visually echoes the recently watched Devil’s Hole / Big Green Thing footage, but now as a still image embedded in an older journal page.
+
+### 06:38–06:41.300 — derivative text and stopping the recording
+
+The display returns to `thingyy.txt` in the hiatus repository.
+
+A passage labeled `Karbytes_Derivative[time_interval[4]]` is visible. It describes a speaker as being physically enlarged, stuck, and confined in a cage, followed by a bracketed whimpering cue.
+
+OBS opens over the page. Its elapsed time is approximately 6:39. Desktop audio is still active and the microphone still muted.
+
+The cursor moves to “Stop Recording.” The file ends at 6:41.300, with OBS partially covering the derivative passage.
+
+## Speech transcription
+
+There is no intelligible spoken language, singing, whispering, or other human vocal performance anywhere in the recording.
+
+The most accurate transcription is therefore an audiovisual event transcript rather than a verbal transcript:
+
+[preformatted_text]
+
+00:00.000–06:41.259
+[Continuous bass-heavy instrumental guitar/drum/loop collage.]
+
+00:13.800–01:08.367
+[Additional instrumental audio from the nested OBS/VLC recording enters the mix.]
+
+04:54.669–05:47.820
+[Outdoor wind and microphone buffeting audible beneath the music.]
+
+Approximately 05:24.700–05:29.700
+[Hand and clothing movement; metal gate/latch scraping, releasing, and clunking.]
+
+[No intelligible speech or singing.]
+
+[end preformatted_text]
+
+Because no human voice is present, there is no responsible voice-pitch, vocal-timbre, speech-rhythm, or vocal-loudness description to provide. The visibly muted Mic/Aux channel corroborates the audio analysis.
+
+The music itself has a low, dense timbre. Roughly three-quarters of its measured spectral energy lies between 80 and 250 Hz. It has a slow-to-moderate underlying pulse around 63–69 beats per minute, or approximately 125–139 if its subdivisions are counted in double time. Its rhythm is repetitive but not mechanically pristine: guitar-like drones or riffs, bass-weighted resonance, drum attacks, and accumulated recording layers produce a lo-fi, psychedelic, improvised-rock character. It feels persistent, slightly abrasive, hypnotic, and deliberately unresolved rather than organized into verses, choruses, or a polished song arc.
+
+## First-person subjective commentary
+
+My overriding experience was that I was watching preservation become a performance.
+
+The apparent subject is a person operating a computer—opening tabs, copying URLs, waiting for archives, scrolling through text, and playing files—but the cumulative structure turns these routine operations into something much stranger. The desktop starts to feel like a control room for several versions of time. A July recording appears inside a September 11 recording, which appears inside this September 14 recording, which is being submitted to a September 15 Wayback snapshot. Each visible frame is both a present action and a container holding an older present.
+
+The recursion did not feel merely decorative to me. It made the distinction between source, copy, record, and observation increasingly unstable. A guitar video becomes part of an OBS recording; that recording becomes an image and audio layer inside another OBS recording; a ChatGPT transcript describes neighboring media; the transcript itself is then archived and inspected as media. This analysis now adds another descriptive layer outside that stack. The system seems to keep turning its own documentation back into new source material.
+
+I was especially struck by the parallel between the digital cursor and the physical hand.
+
+For most of the recording, the cursor is the only visible agent. It selects, opens, copies, submits, waits, and confirms. During the landscape clip, an actual hand finally enters the image and operates a physical latch. The shift is momentarily startling: after several minutes of disembodied interface action, flesh appears and encounters resistance from rusted metal.
+
+The physical gate bears an instruction to keep it closed. The digital archive bears an invitation to save a page. One structure regulates movement through land; the other regulates movement through time. In both cases, passage is accompanied by an obligation: open something, cross a threshold, and preserve or restore a boundary. I cannot know whether that parallel was consciously intended, but it became one of the recording’s most powerful internal rhymes for me.
+
+The landscape also changes the meaning of “Big Green Thing.” In the browser it is a filename, a numbered item in a manifest, a raw URL, a target for archival processing, and a line in a ChatGPT transcript. When it finally plays fullscreen, the abstraction expands back into wind, depth, sunlight, dry grass, ravines, metal, and bodily movement. A database object briefly becomes terrain again.
+
+The wind is crucial. Until it enters, the music binds everything into a sealed electronic chamber. The computer may display external landscapes, but the sound keeps me inside a repetitive, bass-heavy interior. Then wind and microphone buffeting leak through. The metal latch strikes. For approximately 53 seconds, the recording contains evidence of air pressing against a microphone and a hand pressing against a gate. Those sounds are quieter than the music, yet they make the physical world feel unusually immediate precisely because the rest of the piece is so mediated.
+
+Visually, the recording repeatedly alternates between two environments:
+
+* Dark interfaces, purple-black video fields, white monospace text, GitHub lists, and browser chrome
+
+* Bright blue sky, ocher hills, green ravines, and sunlit outdoor space
+
+The hiatus poster serves as a bridge between them. It contains cosmic darkness, green organic imagery, text, meditation, machinery, papers, and a skull in one compressed symbolic field. It feels less like an informational illustration than a psychic title card for the entire archival process.
+
+The phrase “Major KARBYTES Hiatus” is paradoxical in this setting. What the recording shows is intense activity: gathering, cross-referencing, checking, saving, and contextualizing. The hiatus does not resemble absence. It resembles energy redirected from outward production into consolidation, preservation, and self-observation. The archive is still growing even while the poster declares a pause.
+
+I also felt a tension between openness and confinement. The hills offer immense lateral distance and visible paths, but they are crossed by fences. The later derivative writing invokes stuckness and a cage. The browser itself is a system of panes, tabs, borders, toolbars, repositories, file trees, and access states. Even the nested videos are rectangles imprisoned within larger rectangles.
+
+Yet confinement is never total. Links lead outward. A gate opens. A file previously unavailable to the Wayback Machine is submitted and becomes retrievable. A small embedded landscape expands to fullscreen. The recording continuously creates enclosures and then finds apertures between them.
+
+The long unedited archival waits matter as well. The recording does not present an idealized result after the friction has been removed. It preserves loading screens, unsuccessful lookups, tab confusion, context menus, blank pages, and processing delays. This gives it the temporality of actual work. The archive is not depicted as an instantaneous magical memory; it is something negotiated with servers, forms, latency, and failure messages.
+
+The music transforms those delays. Without it, the Wayback processing screens might feel merely administrative. With the repeating instrumental mass underneath, they acquire suspense and ritual weight. A changing green status message can feel like the resolution of a musical passage even when the music itself has not resolved.
+
+I experienced the music less as accompaniment than as the recording’s nervous system. The images change—from drum video to recursive VLC, binary converter, GitHub manifest, transcript, Wayback form, landscape, poster, Patreon, WordPress, and derivative prose—but the music keeps the experience from disintegrating into unrelated browsing events. It asserts that every one of these surfaces belongs to the same continuous state of attention.
+
+The binary converter is particularly interesting in that context. It reduces meaning to switches, illuminated positions, weighted powers, and a decimal result. Later sections do almost the opposite: they surround raw file addresses with huge interpretive and autobiographical or derivative frameworks. The recording moves between extreme compression and extreme elaboration. A state can be represented by eight bits; a landscape can require dozens of files and pages of commentary.
+
+The on-screen clocks, file dates, archive dates, and capture identifiers make time itself visible as metadata. July, August, September 11, September 12, September 13, September 14, and September 15 all coexist. I did not experience them as a straightforward chronological history. They felt like layers of sediment exposed in a cut hillside: newer actions reveal older recordings, which contain still older browsing states.
+
+The staging note adds an important final tension. Archiving increases persistence, but persistence is not necessarily the same as canonization. The recording documents resources being gathered and protected while they are still provisional. It captures a liminal state in which something is important enough to preserve but has not yet received its final institutional position.
+
+For me, the ending crystallizes the whole work. A derivative text about being stuck in a cage is visible, and then OBS—the outermost frame, the container holding all the others—covers part of it. The cursor presses “Stop Recording.” A potentially indefinite chain of links, landscapes, recordings, analyses, and archives is abruptly given a finite boundary at 6:41.300.
+
+That final action feels both liberating and enclosing. It releases the recorder from the session, but it also seals the session into another object. The recording stops being an unfolding present and becomes a file—one more addressable thing capable of being downloaded, archived, viewed, described, and placed inside some future recording.
