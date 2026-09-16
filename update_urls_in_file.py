@@ -26,7 +26,7 @@ def replace_in_file(file_name, old_string, new_string):
         print(f"An error occurred: {e}")
 
 # Parameters
-file_name = "test.html"
+file_name = "journal_karbytes_16september2026_p0.txt"
 old_string = "/informationcrystals/projects/main/"
 new_string = "/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/"
 
