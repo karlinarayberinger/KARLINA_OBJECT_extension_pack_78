@@ -4567,6 +4567,8 @@ The result is a 7-minute-52-second single-take audiovisual diary entry: an initi
 
 ### Technical and temporal properties
 
+[preformatted_text]
+
 | Property                  | Observation                                                        |
 | ------------------------- | ------------------------------------------------------------------ |
 | Filename                  | `karbytes_thinking_13september2026_p0.mp4`                         |
@@ -4586,6 +4588,8 @@ The result is a 7-minute-52-second single-take audiovisual diary entry: an initi
 | Local-time correspondence | 11:13:20 a.m. PDT in California                                    |
 | Encoding metadata         | Android 13 plus FFmpeg/Lavf/Lavc encoder tags                      |
 
+[end preformatted_text]
+
 The metadata time is strikingly consistent with the speaker’s statement that it is “maybe closer to 11:15 a.m.” The speaker says “Pacific Standard Time,” although the civil designation corresponding to the encoded UTC time is Pacific Daylight Time. That is a terminology discrepancy, not a substantive disagreement about the clock time.
 
 The FFmpeg encoder tags and extremely low 240 × 134 resolution suggest that this is a rendered or substantially compressed derivative rather than untouched camera-original footage. The audio bitrate is nearly as large as the video bitrate, which is unusual but appropriate here: the speech carries far more information than the nearly static image.
@@ -4593,6 +4597,8 @@ The FFmpeg encoder tags and extremely low 240 × 134 resolution suggest that thi
 All frame timestamps were monotonic, and the complete decode produced no corrupt or missing frame. The repository carries a [public-domain Unlicense dedication](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/LICENSE).
 
 ### Continuous audiovisual progression
+
+[preformatted_text]
 
 | Time            | Visual progression                                                                                                                                                                                                                       | Audio and speech                                                                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -4603,6 +4609,8 @@ All frame timestamps were monotonic, and the complete decode produced no corrupt
 | 00:29.2–05:03   | A low, canted, mostly stationary room view. The phone slowly settles or slips so the camera points progressively higher: the foreground fan descends toward the bottom while more window, tree, wall, and framed artwork become visible. | Day plans give way to archival criteria, territorial feelings, intuition, and metaphysical speculation.                            |
 | 05:03–06:24     | A noticeable but still small physical reorientation restores more of the foreground fan to view. Minor tremors and exposure changes continue, but no person enters the frame.                                                            | The speaker returns to the car, possible fines/towing/theft, adversity, and the final weed remark.                                 |
 | 06:24–07:52.824 | The room remains visible with no new subject and no cut or fade. Outdoor foliage and exposure fluctuate slightly. The video terminates on essentially the same composition.                                                              | No further intelligible words. Irregular broadband room, airflow, or handling-like noise continues for approximately 88.7 seconds. |
+
+[end preformatted_text]
 
 ### Opening exterior passage
 
@@ -4667,31 +4675,40 @@ Pitch variation is restrained but not fully monotone. The speaker tends to susta
 ### Conceptual progression of the monologue
 
 1. **Immediate bodily and temporal orientation.**
-   The speaker has just returned from a short outdoor pee break, woke approximately twenty minutes earlier, and estimates the time as near 11:15 a.m. on 13 September 2026.
+   
+The speaker has just returned from a short outdoor pee break, woke approximately twenty minutes earlier, and estimates the time as near 11:15 a.m. on 13 September 2026.
 
 2. **A practical route and supply itinerary.**
-   The plan is to walk to Castro Village, collect a package from an Amazon Locker inside Ross, obtain ten blank 25-gigabyte M-DISCs, order food through Uber Eats, travel up Redwood Road to Chabot Staging Area, enter the Green Thing, and walk through it to the Las Trampas/Bollinger Canyon Road parking area. The ten discs represent 250 GB of nominal blank archival capacity.
+   
+The plan is to walk to Castro Village, collect a package from an Amazon Locker inside Ross, obtain ten blank 25-gigabyte M-DISCs, order food through Uber Eats, travel up Redwood Road to Chabot Staging Area, enter the Green Thing, and walk through it to the Las Trampas/Bollinger Canyon Road parking area. The ten discs represent 250 GB of nominal blank archival capacity.
 
 3. **Criteria for retaining or deleting video.**
-   The speaker asks why some videos are kept and others deleted. Visual significance, meaningful background activity, thematic contribution, and the video’s role in a “giant puzzle” are offered as selection criteria.
+   
+The speaker asks why some videos are kept and others deleted. Visual significance, meaningful background activity, thematic contribution, and the video’s role in a “giant puzzle” are offered as selection criteria.
 
 4. **Signal, noise, and canonization.**
-   If the perceived signal-to-noise ratio is sufficiently high, a video becomes “canon KARBYTES.” Otherwise, it is discarded or reduced to a plain-text transcript.
+   
+If the perceived signal-to-noise ratio is sufficiently high, a video becomes “canon KARBYTES.” Otherwise, it is discarded or reduced to a plain-text transcript.
 
 5. **Territorial belonging and social restraint.**
-   Generic public and residential sidewalks do not feel sufficiently like the speaker’s territory. Speaking aloud there feels discouraged even though nobody has explicitly objected. The speaker therefore lets intuition determine what belongs in the archive.
+   
+Generic public and residential sidewalks do not feel sufficiently like the speaker’s territory. Speaking aloud there feels discouraged even though nobody has explicitly objected. The speaker therefore lets intuition determine what belongs in the archive.
 
 6. **A naturalistic model of intuition.**
-   Intuition is described as an input-output device that learns over time and eventually makes decisions faster than step-by-step conscious reasoning. It is a cognitive black box, not necessarily something divine or mystical.
+   
+Intuition is described as an input-output device that learns over time and eventually makes decisions faster than step-by-step conscious reasoning. It is a cognitive black box, not necessarily something divine or mystical.
 
 7. **Metaphysical expansion followed by methodological restraint.**
-   The speaker entertains the propositions that the world beyond the brain might be considered part of the brain, that nature is an information-processing structure, and that nature might be one large mind or field of consciousness. It then pulls back, judging that line of thought insufficiently rigorous and contrasting an invisible “ether” with experimentally approachable vacuum-state energy.
+   
+The speaker entertains the propositions that the world beyond the brain might be considered part of the brain, that nature is an information-processing structure, and that nature might be one large mind or field of consciousness. It then pulls back, judging that line of thought insufficiently rigorous and contrasting an invisible “ether” with experimentally approachable vacuum-state energy.
 
 8. **Material urgency and residual risk.**
-   The car has been left for several days somewhere it was not meant to remain overnight. The possibilities include a substantial fine, towing, vandalism, or theft. Following rules cannot abolish every risk, so adversity remains a hypothetical possibility.
+   
+The car has been left for several days somewhere it was not meant to remain overnight. The possibilities include a substantial fine, towing, vandalism, or theft. Following rules cannot abolish every risk, so adversity remains a hypothetical possibility.
 
 9. **Abrupt bodily coda.**
-   After a short pause, the speaker adds, “By the way, I did eat all my weed.”
+   
+After a short pause, the speaker adds, “By the way, I did eat all my weed.”
 
 ## Full transcription
 
@@ -4824,8 +4841,11 @@ There is another reflexive layer in the present analysis: machine-learning syste
 The monologue expands rapidly from cognition to ontology:
 
 * Intuition is a brain process.
+
 * What lies beyond the brain might function as part of the brain.
+
 * Nature might be an information-processing structure.
+
 * Nature might be one vast mind or field of consciousness.
 
 Then the speaker interrupts the expansion and calls it insufficiently rigorous.
@@ -4841,14 +4861,23 @@ I see the archive itself as a partial answer. KARBYTES externalizes subjective c
 The monologue has a distinctive scalar shape:
 
 1. A bodily act: waking and urinating.
+
 2. A neighborhood errand.
+
 3. A regional walking route.
+
 4. A media archive.
+
 5. A model of intuition.
+
 6. The boundary of the brain.
+
 7. Nature as a possible mind.
+
 8. Scientific testability.
+
 9. A parked car.
+
 10. Consumed weed.
 
 Thought expands from the body to the cosmos and then collapses back into vulnerable property and bodily consumption. I do not experience this as incoherence. It resembles the actual scale-switching of spontaneous thought: logistics invite principles; principles invite ontology; ontology is interrupted by the thing that must be done next.
@@ -4866,9 +4895,13 @@ I hear a tension between realism and hypervigilance. It is sensible to retrieve 
 This risk-management pattern exists throughout the larger monologue:
 
 * M-DISCs reduce the risk of archival loss.
+
 * Transcripts preserve speech when video is discarded.
+
 * Intuition reduces the cost of slow conscious deliberation.
+
 * Territorial restraint reduces social friction.
+
 * Retrieving the car reduces exposure to fines, towing, damage, or theft.
 
 The video is therefore about preservation at several scales: data, attention, social legitimacy, mobility, and property.
