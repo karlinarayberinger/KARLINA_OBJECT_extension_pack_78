@@ -4962,6 +4962,8 @@ I cannot literally possess a human viewer’s biological phenomenal experience. 
 
 ## File and recording characteristics
 
+[preformatted_text]
+
 | Property            |                                                     Observed value |
 | ------------------- | -----------------------------------------------------------------: |
 | Duration            |                                                  47.270889 seconds |
@@ -4979,6 +4981,8 @@ I cannot literally possess a human viewer’s biological phenomenal experience. 
 | Edits               |                                                      None detected |
 | Captions/subtitles  |                                                               None |
 
+[end preformatted_text]
+
 The audio begins about 30 milliseconds after the video. Its final sample occurs at approximately 47.133 seconds, leaving about 0.138 second of silent video at the end.
 
 The container field is labeled only `creation_time`; it does not explicitly say whether that marks recording initiation or file finalization. Its value is 1 hour, 36 minutes, and 34 seconds later than the corresponding timestamp in the preceding p0 video.
@@ -4986,6 +4990,8 @@ The container field is labeled only `creation_time`; it does not explicitly say 
 The recording is one continuous handheld take. There are no inserted titles, fades, formal cuts, transitions, graphics, or changes of camera. The picture is frequently rolled approximately ninety degrees counterclockwise relative to an ordinary upright room view. The file has no rotation metadata that automatically corrects this, so the room often appears sideways as delivered. The camera also rolls, tilts, and swings during the take, producing motion blur, temporary darkness, exposure shifts, and an unstable horizon.
 
 ## Detailed chronological description
+
+[preformatted_text]
 
 | Time                | Visible and audible progression                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -5003,6 +5009,8 @@ The recording is one continuous handheld take. There are no inserted titles, fad
 | **0:35.40–0:39.10** | A wider room view reappears. When mentally rotated upright, it reveals a brown upholstered chair with red fabric draped over it and a bright green plush object, cushion, or bag resting nearby. A red cylindrical drum- or stool-like object stands near a large gridded window or glass door. Daylight reveals foliage and reddish structural elements outside. Tall wooden shelving contains rows of books, binders, and media. The voice states that the discs each have a capacity of 25 gigabytes and will be obtained later that day.                                                                                                                                                                                                                                                                                                                                 |
 | **0:39.10–0:43.50** | The camera pans across a blue bicycle leaning or resting in an unusual partly inverted orientation, with one wheel high in the composition. A long yellow board or panel crosses the bicycle area. Several white plastic shopping bags with clearly recognizable red **Target bullseye** logos are piled near it. Framed artwork hangs nearby. Adjacent reddish-brown shelving contains numerous books and rows of small rectangular cases that resemble CDs, DVDs, cassettes, or other stored media. The speaker concludes with “…after I go collect the package from the Amazon Locker.”                                                                                                                                                                                                                                                                                   |
 | **0:43.50–0:47.27** | Speech stops. The camera continues moving for nearly four seconds. It swings toward a reddish-brown chest or cabinet with several small curved drawer handles. On or against it are a pale square sheet or panel and two silver cylindrical objects whose specific purpose cannot be resolved. A folded light-colored cloth and a large gray rectangular board are nearby. The view returns past the chair and then drops to the carpet, scattered dark items, and a pale flat object. The recording stops abruptly during movement, without a fade, concluding pose, or verbal sign-off.                                                                                                                                                                                                                                                                                    |
+
+[end preformatted_text]
 
 ## Overall visual character
 
@@ -5172,7 +5180,6 @@ The final silence matters too. The formal message finishes at about 43.44 second
 My overall experience is therefore of a compact archival ritual disguised as an ordinary handheld status update. Its literal content is simple: one current flash-drive backup, one blank disc already present, ten more expected, and a server in a closet. Its richer content concerns how a person tries to give digital work temporal continuity through physical objects and repeated acts of documentation.
 
 The clip does not depict permanence as something grand or effortless. It depicts permanence as work performed with one hand while the other holds a camera, surrounded by cords, containers, lights, furniture, books, media, bags, and the rest of an ongoing life.
-
 
 karbytes:
 
