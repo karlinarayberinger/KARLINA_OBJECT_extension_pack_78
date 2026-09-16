@@ -33,3 +33,7 @@ The broken URLs are:
 3. [`unlisted_web_page_karbytes_social_media_posts_koep78.html`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/unlisted_web_page_karbytes_social_media_posts_koep78.html)
 
 All other URLs—including `12sep2026_p135.jpg`, the corrected `13sep2026_p62.jpg`, and the square-bracketed `obs_studio_recording_14september2026_p0_[abridged].mp4`—exist and return HTTP 200.
+
+karbytes:
+
+I attempted to add all of those missing files. Verify whether or not those files are accessible from your end of the Internet.
