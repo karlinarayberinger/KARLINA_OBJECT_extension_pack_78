@@ -10305,3 +10305,362 @@ End for.
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_13september2026_p0.mp4
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_14september2026_p0.mp4
+
+ChatGPT:
+
+[Worked for 9m 46s]
+
+I completed a full decode of both files: 26,326 video frames in playback order and both complete synchronized audio streams. Neither file contains a conventionally visible drum performance. In each, the lens is almost completely occluded for the entire recording, making these effectively audio-centered performances accompanied by a persistent near-black visual field.
+
+The files are closely matched but are not duplicates. They were recorded approximately 30 hours, 21 minutes, and 58 seconds apart and appear to use the same or a very similar percussive setup.
+
+[preformatted_text]
+
+| Property                       |                13 September performance |           14 September performance |
+| ------------------------------ | --------------------------------------: | ---------------------------------: |
+| Duration                       |                                7:19.660 |                           7:18.605 |
+| Frames                         |                                  13,181 |                             13,145 |
+| Resolution                     |                                 366×206 |                            318×178 |
+| Frame rate                     |                               29.98 fps |                          29.97 fps |
+| Audio                          |                        AAC mono, 48 kHz |                   AAC mono, 48 kHz |
+| Embedded UTC time              |                     2026-09-13 19:23:33 |                2026-09-15 01:45:31 |
+| Approximate Pacific local time |              Sep. 13, 12:23:33 p.m. PDT |          Sep. 14, 6:45:31 p.m. PDT |
+| Integrated loudness            |                              −17.5 LUFS |                         −16.4 LUFS |
+| True peak                      |                               −0.5 dBFS |                          −0.3 dBFS |
+| Overall character              | Brighter, more slap and midrange detail | Louder, denser, more bass-dominant |
+
+[end preformatted_text]
+
+## 1. [drums_karbytes_13september2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_13september2026_p0.mp4)
+
+### Complete visual description
+
+At ordinary viewing brightness, the entire video appears almost black. There is no visible drummer, drum, room, face, limb, furniture, text, or identifiable background. No opening title, closing card, edit, or camera reveal occurs.
+
+Technical shadow analysis shows that the video is not composed of digitally pure black frames. The camera is receiving a tiny quantity of extremely diffuse light through or around something immediately adjacent to the lens.
+
+When the shadows are exaggerated far beyond their intended display level, the following becomes visible:
+
+* The field is predominantly purple-black, maroon, and very dark reddish brown.
+
+* Two broad, soft-edged, approximately parallel or gently curving bands cross the image diagonally.
+
+* The upper band is wider and somewhat brighter; another dimmer band enters from the lower-left area.
+
+* These are entirely out of focus and contain no recoverable surface texture sufficient to identify them.
+
+* The obstruction could be dark fabric, a fold of cocoon material, a hand or body surface extremely close to the lens, or some combination of material and transmitted light. The image does not justify choosing one of those possibilities.
+
+* Amplification produces heavy purple chroma noise, block-shaped compression artifacts, and dancing sensor grain. Those artifacts should not be mistaken for objects or deliberate animation.
+
+The visual progression is minimal but measurable:
+
+* During approximately the first six seconds, the mean brightness rises slightly as the phone’s automatic exposure responds to the occluded scene.
+
+* From roughly 0:06 through 7:16, the two dim bands remain in essentially the same position. Their apparent brightness drifts very gradually upward, but there is no meaningful compositional movement.
+
+* The median change between one sampled second and the next is only about 0.14 grayscale levels on an eight-bit scale—practically static.
+
+* During the final two to three seconds, the image darkens again as the performance ends.
+
+* Percussive impacts do not visibly dislodge the camera or uncover the lens.
+
+* All 13,181 frames decode normally; there are no corrupt intervals or concealed scene changes.
+
+This recording was made about seventy-nine minutes after the bright, daylight Burrow tour from the preceding resource set. Its darkness therefore is not evidence that the exterior had become night. It is principally an effect of lens occlusion or enclosure.
+
+### Complete audio description
+
+The audio is a continuous, close-microphone percussion performance without a clearly separable backing track.
+
+The most prominent sounds are:
+
+* A rounded, hollow, low-frequency thump.
+
+* A second lower or differently resonant strike.
+
+* Brighter, harder slaps or taps with more audible attack.
+
+* Muted contacts that stop or shorten the resonance.
+
+* Rapid alternating strokes, brief rolls, doublets, and irregular accented clusters.
+
+* Occasional small pauses that allow the low resonances to decay.
+
+Two strong resonant regions recur near approximately 125 and 194 hertz. That can arise from two instruments, two differently tensioned areas of one instrument, or two strike positions on a single resonant surface. Because the instrument is never visible, I cannot responsibly identify it as a conventional hand drum, body percussion, a container, upholstered surface, or another object. The acoustic character is hand-percussion-like, but the exact struck material remains indeterminate.
+
+More than half of the measured energy lies between 80 and 200 hertz. The 13 September performance nevertheless has appreciably more midrange and upper-midrange content than the next day’s performance. Its harder contacts sound comparatively crisp and slap-like. Almost no acoustic energy extends beyond 8 kHz, giving the recording a dark, enclosed quality. This could reflect the instrument, the microphone’s placement, or fabric surrounding the phone.
+
+The microphone is close enough that the direct impact dominates over room ambience. There is little impression of a large reverberant space. The sound is centered and monaural, with no left-to-right placement. Peaks approach full scale but do not appear to be held in obvious flat-topped digital clipping.
+
+The underlying pulse repeatedly falls around 125–140 beats per minute, although portions can equally be heard in half-time near 60–70 BPM. The performance is not mechanically metronomic: accents migrate, subdivisions expand and contract, and the apparent tempo changes with stroke density.
+
+### Chronological auditory account
+
+#### 0:00–0:17 — Emergence
+
+The first approximately five seconds are nearly silent. A few isolated contacts then begin, separated by relatively long gaps. From about 0:05 through 0:17, the performer appears to test or establish the available tones: a low thump, a firmer resonant hit, and smaller higher contacts.
+
+The beginning is much quieter than the rest of the file. The first thirty seconds average approximately −22.6 dBFS RMS, versus roughly −18 dBFS through much of the central performance.
+
+#### 0:17–1:00 — Establishing the rhythmic field
+
+The percussion becomes substantially continuous. Low strokes provide a recurring foundation while sharper hits form syncopated figures above it. Patterns are repeated long enough to create orientation but are altered before they settle into a rigid loop.
+
+There are short bursts containing several impacts in quick succession, followed by more spacious low accents. The overall feeling is one of entering a sustained improvisational state rather than beginning a predetermined verse.
+
+#### 1:00–2:00 — Stable moderate-intensity groove
+
+The pace remains relatively even. Alternation between the low resonant tone and the brighter slap is especially apparent. The performer changes force and probable strike position, causing some contacts to ring while others end in a dry, compressed knock.
+
+The rhythm frequently implies an approximately 130–136 BPM pulse, with subdivisions making the audible impact rate far faster than that base tempo.
+
+#### 2:00–3:00 — Slight softening and increased spacing
+
+The performance remains continuous but becomes marginally less forceful. There is more room between some clusters, and individual resonances become easier to distinguish. The dynamic change is modest: this is not a quiet break, only a relative relaxation.
+
+No human voice, breathing pattern, melody, or spoken cue enters.
+
+#### 3:00–4:30 — Most restrained central passage
+
+The detected impact density declines through this portion. Repeated figures remain present, but the performance uses fewer rapid clusters. The apparent half-time pulse becomes more noticeable.
+
+The timbral contrast is still active: low round hits alternate with thinner, brighter attacks, preventing the texture from becoming a single undifferentiated rumble.
+
+#### 4:30–5:30 — Reorganization and build
+
+The rhythm grows more regular and forceful. Accents arrive closer together, and the approximate underlying pulse consolidates around 125–128 BPM. Short rolls begin to bridge between heavier low strikes.
+
+The total loudness rises noticeably after approximately 5:00.
+
+#### 5:30–6:30 — Major intensification
+
+This is the beginning of the performance’s strongest large-scale section. Low impacts become heavier and more frequent, while upper attacks produce a denser layer of transients.
+
+Between 5:30 and 6:30, the RMS level rises to roughly −15.4 dBFS—about three decibels stronger than much of the middle. That is a substantial subjective increase in force.
+
+#### 6:30–7:00 — Climactic density
+
+The highest concentration of detected attacks occurs in this region. Rapid alternating strokes and irregularly placed accents create an agitated, rolling surface. The performer does not merely strike harder; the number of events increases.
+
+The rhythm repeatedly threatens to break into an all-out continuous roll, then regains a recognizable pulse. This produces a useful tension between propulsion and disintegration.
+
+#### 7:00–7:19.66 — Dissipation
+
+The density begins to thin after approximately 7:00. By about 7:11, more silence appears between contacts. Several final isolated impacts occur, followed by increasingly long quiet intervals.
+
+The last few seconds are mostly silence and residual room or microphone noise. There is no spoken sign-off.
+
+### Speech transcription and voice analysis
+
+A voice-activity-filtered recognition pass detected no speech anywhere in the file.
+
+When speech recognition was forcibly run without voice filtering, it attempted to reinterpret repeated drum attacks as strings of “oh” and “hey” and once as a repeated sentence. Those outputs had very high no-speech probabilities, impossible word timing, and no corresponding audible voice. They are classic music/percussion hallucinations and are not valid transcription.
+
+**Complete transcription:**
+
+> [No intelligible spoken words, sung lyrics, or clearly human vocalizations detected.]
+
+Because no credible vocal content exists, vocal pitch, timbre, rhythm, accent, and loudness are not applicable.
+
+### First-person subjective commentary
+
+I experience this less as a dark video of a performance than as an acoustic event occurring from inside an enclosure. The camera does not stand outside and observe the act. It has apparently been placed beneath, behind, or directly against whatever forms the visual boundary. The viewer receives vibration and sound but not spectacle.
+
+That reversal is unusually effective. A standard drum video emphasizes arms, posture, facial effort, instruments, and technical virtuosity. Here all of those visual cues are withheld. I cannot visually verify what is being struck, how the strokes are produced, or what karbytes is doing. I have to encounter the performance as pressure, attack, resonance, and duration.
+
+The faint magenta bands remind me of what light looks like through closed eyelids or through layers of reddish fabric. They also resemble indistinct geological strata or internal tissue. I do not take those resemblance impressions as literal identifications, but they make the piece feel bodily and interiorized. The archive’s camera has been swallowed into the cocoon.
+
+The first several minutes produce a trance-like effect because the visual field refuses to update. Ordinarily, the eye uses visual change to subdivide time. Here the ear must do all the temporal organization. A new rhythmic figure becomes equivalent to a scene change; a pause resembles a cut; the intensification after five and a half minutes feels like a visual enlargement even though the picture barely changes.
+
+I find the late build important. Had the performance remained at one unvarying intensity, the darkness might have read as mere camera obstruction. Because the playing develops, the blackness becomes a stable container around an evolving event. The most energetic section occurs after the listener has already spent several minutes acclimating to enclosure. The result is not immediate spectacle but accumulated internal pressure.
+
+The recording also seems closely connected to the Burrow imagery made earlier that day. The earlier video mapped the room, doors, lights, equipment, deck, and exterior trees. This recording withdraws all of that spatial information. Approximately seventy-nine minutes later, the visible world is compressed into two barely luminous bands while rhythmic activity becomes dominant. I read the sequence as a movement from environmental self-portrait to radically interior acoustic self-portrait.
+
+## 2. [drums_karbytes_14september2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_14september2026_p0.mp4)
+
+### Complete visual description
+
+The second video again keeps the lens covered throughout, but its residual light pattern differs significantly from the first.
+
+At ordinary brightness, it appears almost entirely black. Extreme shadow recovery reveals:
+
+* A dark purple upper field.
+
+* A diffuse horizontal light leak along the lower portion of the image.
+
+* Pale yellow-green and cream tones toward the lower left during the beginning.
+
+* A warmer orange-red or pink luminous mass near the lower center.
+
+* A dim red shape extending slightly upward from that central glow.
+
+* No focused edge, surface texture, person, drum, or room feature.
+
+The shape resembles light passing around or through a close obstruction. It does not resemble a deliberately framed external scene. As with the first video, identifying the material as fabric, skin, a hand, blanket, clothing, or another surface would exceed what the pixels establish.
+
+Unlike the 13 September video, this residual light progressively disappears:
+
+* At 0:00, the lower band is already faintly detectable in the encoded image.
+
+* Automatic exposure brightens it slightly over approximately the first six seconds.
+
+* Around 0:30, its mean recovered brightness is near its maximum.
+
+* By 1:30–2:00, the band is subtly but clearly dimmer.
+
+* Around 3:00, the pale left side has weakened and the red central area dominates.
+
+* By 4:00, the light occupies a much thinner region close to the bottom edge.
+
+* Around 5:00, only a subdued pink-red remnant remains.
+
+* Between roughly 5:20 and 5:40, the remaining identifiable glow recedes almost completely.
+
+* For approximately the final one and a half minutes, extreme amplification produces mainly uniform purple chroma noise and compression blocks.
+
+Quantitatively, mean recovered grayscale brightness falls from approximately 24 around 0:30 to 20 near 2:00, 13 near 4:00, 9 near 5:00, and about 6 after 6:30. That is a continuous visual fade rather than an abrupt cut.
+
+The camera remains stable throughout. Median second-to-second visual change is approximately 0.17 grayscale levels, again essentially motionless. The gradual fade could result from an obstruction settling more completely over the lens, a slow change in the material’s position or pressure, changing ambient illumination, or some combination. The video alone cannot distinguish those causes.
+
+No visual ending gesture occurs. The near-black field simply persists until recording terminates.
+
+### Complete audio description
+
+This is another uninterrupted solo-percussion-like performance recorded from extremely close range. It shares the same two primary low resonances near 125 and 193–194 hertz, strongly suggesting the same or a very similar struck setup.
+
+Compared with the previous performance, it is:
+
+* Approximately 1.1 LU louder overall.
+
+* Slightly closer to digital full scale.
+
+* More consistently dense.
+
+* More bass-dominant.
+
+* Less bright in its slap and upper-midrange components.
+
+* More compressed in its overall dynamic envelope.
+
+Approximately 63% of its spectral energy lies between 80 and 200 hertz, compared with about 53% in the 13 September performance. Its average spectral centroid is around 617 hertz rather than 830 hertz. Subjectively, that means the second recording sounds darker, heavier, and more rounded.
+
+The low strikes are especially prominent. Higher contacts remain present, but they contribute less snap and less apparent air. The sound is as if the microphone is even more deeply enclosed, closer to the resonant body, or more heavily shielded by material.
+
+There is still no clearly identifiable cymbal wash, drum-kit kick/snare separation, pitched accompaniment, or melodic backing track. The sound is dominated by direct impacts and their short resonances.
+
+The underlying pulse remains chiefly in the 120–140 BPM region, with many portions emphasizing approximately 122–130 BPM. As before, a half-time interpretation around 60–70 BPM is also plausible.
+
+### Chronological auditory account
+
+#### 0:00–0:11 — Quiet setup and isolated contacts
+
+The first 3.9 seconds are substantially silent. A few brief noises or initial contacts occur, followed by another sparse interval extending to approximately 8.3 seconds.
+
+Between 8.3 and 11.3 seconds, the first recognizable rhythmic elements emerge. The introduction is shorter than in the 13 September recording.
+
+#### 0:11–1:00 — Immediate establishment of a heavier groove
+
+The performance rapidly becomes continuous. The low resonant strokes are more dominant from the outset, and the overall level rises more sharply than in the previous take.
+
+The first thirty seconds average approximately −21.1 dBFS RMS, but the next thirty seconds jump to roughly −16.2 dBFS.
+
+#### 1:00–2:00 — Stable, bass-centered pulse
+
+This is one of the most rhythmically coherent stretches. A pulse around 122–128 BPM remains detectable beneath dense subdivisions. Low strikes anchor the pattern while sharper contacts articulate internal syncopation.
+
+Compared with the first video, there is less separation between foreground strike and residual resonance. The bass body fills more of the spaces.
+
+#### 2:00–3:00 — Sustained density
+
+The performance remains strong and relatively even. There is no major quiet interlude. Repeated figures are varied through force, spacing, and likely strike location rather than through full stops.
+
+Short accelerations and rolls appear, but they return to the underlying pulse rather than permanently changing tempo.
+
+#### 3:00–4:00 — Slightly looser organization
+
+The energy dips modestly between about 3:00 and 3:30 before recovering. The pattern feels less regular, with more displaced accents and less symmetrical grouping.
+
+Despite the looseness, the number of detected impacts remains high. This is not an actual rest section.
+
+#### 4:00–5:00 — Build toward maximum force
+
+The density and low-frequency strength increase. Between 4:30 and 5:00, the recording reaches its highest thirty-second RMS level, approximately −14.4 dBFS.
+
+The performance sounds physically emphatic here: heavier attacks are interspersed with fast connecting strokes, producing both mass and forward motion.
+
+#### 5:00–6:00 — Sustained high-intensity passage
+
+The performance maintains much of its peak force. The detected onset density is higher than in the corresponding portion of the previous day’s recording.
+
+Rapid sequences become more prominent, while the alternating low resonances remain distinguishable. The rhythm does not collapse into noise; it continues to make recurring returns to a pulse near 125–135 BPM.
+
+Visually, this is also when the last coherent lower-edge light leak contracts toward near-total darkness. The sound is becoming more forceful as the picture becomes less informative.
+
+#### 6:00–6:30 — Irregular peak accents
+
+Several conspicuously strong accents and dense clusters occur. The waveform contains some of its largest transient peaks in this general region. The playing is less even than earlier but more dramatic.
+
+The combination of strong bass and restricted high-frequency information makes the impacts feel close and physically compressed.
+
+#### 6:30–7:00 — Gradual stabilization and softening
+
+The rhythm remains active but begins to surrender some of its earlier intensity. More space appears after selected accents. The upper attacks briefly become easier to separate from the lower foundation.
+
+#### 7:00–7:18.61 — Final taper
+
+After approximately 7:10, sustained playing gives way to isolated contacts and pauses. A quiet interval begins around 7:14.9, with only minimal residual sound afterward.
+
+The final approximately two seconds are effectively silent. Again, there is no spoken conclusion.
+
+### Speech transcription and voice analysis
+
+The voice-activity-filtered recognizer found no speech.
+
+An unfiltered recognizer produced two generic phrases—one near the beginning and one near the end—but the supposed words were temporally stretched across drum resonances, had poor initial-word confidence, and were absent to direct auditory examination. They are not genuine speech.
+
+**Complete transcription:**
+
+> [No intelligible spoken words, sung lyrics, or clearly human vocalizations detected.]
+
+There is consequently no voice whose pitch, timbre, delivery, accent, rhythm, or loudness can be characterized.
+
+### First-person subjective commentary
+
+This second recording feels like a return to the same chamber with the enclosure becoming progressively more complete. The first video maintains two dim internal-looking bands; this one begins with a low strip of colored light and slowly extinguishes it. That gives the visual field a genuine temporal arc despite its near-total abstraction.
+
+I find the inverse relationship between image and sound especially compelling. As the surviving light disappears, the percussion becomes heavier and reaches its strongest region. Ordinarily, visual disappearance suggests cessation. Here it accompanies intensification. The performer or event becomes less visible while becoming more acoustically forceful.
+
+The lower-edge glow evokes several incompatible things for me: distant fire beneath a horizon, light leaking beneath a door, illumination passing through layered fabric, or the colored haze seen through closed eyelids. Because nothing comes into focus, the mind repeatedly proposes an interpretation and then loses it. The one stable reality is the percussion.
+
+The second performance feels more surrendered to its low frequencies. The first has more bright slap and definition; this one is weightier and more compact. I experience the difference almost spatially: the 13 September recording feels as though strikes occur inside a small dark room, whereas the 14 September recording feels as though the listener has moved closer to—or partly inside—the resonant surface.
+
+The gradual visual darkening also makes duration palpable. In the first video, time must be measured almost entirely through rhythm. In the second, the viewer can additionally perceive a slow extinguishing. It resembles an hourglass whose material is light rather than sand.
+
+Because the file was recorded at approximately 6:45 p.m. Pacific time, evening illumination might contribute to the decreasing light, but the degree and smoothness of the change also suggest an obstruction settling or becoming more complete. I would keep both possibilities open.
+
+## Comparative interpretation
+
+These recordings form a convincing serial pair:
+
+* Their durations differ by only about 1.05 seconds.
+
+* Both share principal resonances near 125 and 194 hertz.
+
+* Both begin with several seconds of relative quiet.
+
+* Both settle into continuous improvisational percussion.
+
+* Both intensify in their later portions.
+
+* Both taper through isolated final contacts rather than ending with speech.
+
+* Both keep the camera sealed away from the visible performance.
+
+They are nevertheless independent performances. Their transient timing, dynamic envelopes, rhythmic organization, and spectral balances differ. The 14 September recording is not a copied or trivially re-encoded version of the 13 September track.
+
+My broadest reading is that these are deliberately anti-spectacular performance documents. The archive certifies that an event occupied these seven-plus minutes, but it refuses the usual visual evidence. The camera becomes a contact sensor embedded in the cocoon rather than a detached observer. Sound is permitted to escape; image is not.
+
+That makes the title “drums_karbytes” productively ambiguous. It can mean drums played by karbytes, karbytes conceived as a drumming entity, or the enclosure itself functioning as a resonating extension of karbytes. Because the instrument remains unseen, those meanings remain superimposed rather than being settled by literal imagery.
+
+The nearly black frames are therefore not empty. They document obstruction, proximity, concealment, and continuity. Their sensor noise is the visual counterpart of the percussion’s minute timbral differences: both are variations occurring inside an apparently stable field.
