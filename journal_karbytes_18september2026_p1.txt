@@ -36,7 +36,7 @@ web_page: {web_page_url}
 
 * * *
 
-// PROMPT_1: Describe the resources listed in an HTML web page.
+// PROMPT_1: Describe the resource in the format of a plain-text essay.
 
 [preformatted_text]
 
