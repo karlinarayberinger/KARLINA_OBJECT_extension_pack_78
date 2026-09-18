@@ -11183,3 +11183,9 @@ The repetition makes the license both source metadata and page-level policy. The
 I find this usefully self-referential: the page that defines the archive’s public-domain philosophy is also used to license the page that points to it. The archive does not merely carry a legal label; it repeatedly links that label back to its own explanatory manifesto.
 
 The recurrence also reinforces a central KARBYTES priority. Emotional narratives, photographs, software, indexes, and philosophical texts are treated not primarily as scarce possessions but as patterns intended for copying. The public-domain declaration is therefore not peripheral boilerplate. It is part of the archive’s theory of survival.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_15june2026/
