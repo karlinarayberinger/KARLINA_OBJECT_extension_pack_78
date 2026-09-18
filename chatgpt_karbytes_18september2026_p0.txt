@@ -5476,3 +5476,1032 @@ web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18september
 ChatGPT:
 
 [Worked for 19m]
+
+I treated “hyperlinks which appear” as the 21 authored links inside the article body, in rendered top-to-bottom order. I excluded WordPress’s theme navigation, footer, and account controls because those are platform chrome rather than part of the journal entry.
+
+The 21 occurrences resolve to 19 unique resources: one JPEG, one plain-text file linked twice, six composite screen recordings, four percussion recordings, seven other webpages, and the public-domain page linked twice.
+
+For the ten videos, I downloaded the canonical MP4s, decoded every frame in presentation order, decoded the complete synchronized audio streams, checked for corruption, inspected the visual sequence and transitions, and analyzed the audio for loudness, spectral structure, silence, rhythm, speech, and vocal material. Together they contain 113,648 frames and 63:08.998 of audiovisual material. I cannot literally possess a human phenomenal viewing experience, so the first-person passages below are interpretive reports rather than claims of human consciousness.
+
+[preformatted_text]
+
+| Link |  Duration | Frames | Video              | Audio            | Integrated loudness | Vocal result                 |
+| ---: | --------: | -----: | ------------------ | ---------------- | ------------------: | ---------------------------- |
+|   11 |  6:41.300 | 12,039 | 1092×614, 30 fps   | Stereo, 48 kHz   |          −18.8 LUFS | None                         |
+|   12 |  6:29.600 | 11,688 | 854×480, 30 fps    | Stereo, 44.1 kHz |          −20.7 LUFS | None                         |
+|   13 |  5:34.000 | 10,020 | 1092×614, 30 fps   | Stereo, 48 kHz   |          −14.9 LUFS | None                         |
+|   14 | 10:38.600 | 19,158 | 1092×614, 30 fps   | Stereo, 48 kHz   |          −22.4 LUFS | None                         |
+|   15 |  7:27.000 | 13,410 | 1092×614, 30 fps   | Stereo, 48 kHz   |          −13.6 LUFS | None                         |
+|   16 |  3:46.133 |  6,784 | 1092×614, 30 fps   | Stereo, 48 kHz   |          −14.1 LUFS | Nonlexical vocal pulses only |
+|   17 |  7:05.600 | 12,768 | 320×180, 30 fps    | Mono, 48 kHz     |          −14.7 LUFS | None                         |
+|   18 |  0:48.500 |  1,455 | 590×1050, 30 fps   | Mono, 48 kHz     |          −16.4 LUFS | None                         |
+|   19 |  7:19.660 | 13,181 | 366×206, 29.98 fps | Mono, 48 kHz     |          −17.5 LUFS | None                         |
+|   20 |  7:18.605 | 13,145 | 318×178, 29.97 fps | Mono, 48 kHz     |          −16.4 LUFS | None                         |
+
+[end preformatted_text]
+
+## 1. Devil’s Hole / Big Green Thing photograph
+
+[Source image](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/devils_hole_the_big_green_thing_13sep2026_p46.jpg)
+
+The resource is a 4160×3120-pixel, 4:3 JPEG measuring about 5.66 MiB. Its EXIF metadata identifies a Samsung SM-A037U camera, a 3.39 mm focal length, f/2.2 aperture, 1/500-second exposure, ISO 80, automatic white balance, no flash, and a capture time of 13 September 2026 at 18:19:18. Empty or zero-valued GPS fields provide no usable coordinates.
+
+The photograph depicts an open California grassland basin beneath a clear, pale blue sky. Roughly the upper two-fifths are almost uninterrupted sky. The horizon is not a flat line: trees and slopes form a shallow, irregular bowl opening around the center.
+
+The immediate foreground is a dense field of dry, wheat-colored grass. Individual stalks and seed heads are crisply illuminated on the right, where the low sun turns them pale gold. A narrow, faintly worn footpath enters near the bottom center, bends subtly leftward, and descends into the shadowed basin. It is not a wide engineered trail; it is a compressed strip barely distinguished from the surrounding vegetation.
+
+The lower-left and central meadow lie in deep bluish-gray shade. Several dried stalks stand above that darker field. Along the far edge of the basin, dense rounded shrubs form a green border. The vegetation varies from olive to yellow-green and very dark forest green. Near the center is a pale, bare-branched shrub or small dead tree whose skeletal form contrasts with the rounded foliage around it.
+
+On the left, mature trees merge into a dark grove. Their trunks and lower branches are largely swallowed by shadow, while their upper foliage remains legible against the sky. Near the center, one isolated mature tree stands on the saddle of a low ridge. On the right, the terrain rises steeply into a sunlit tawny hillside. Large trees line that upper ridge, their crowns irregular and airy; their upper surfaces catch warm light while their trunks cast dark vertical marks. A thick, bright-green shrub mass occupies the extreme right edge.
+
+The photograph’s major organizing contrast is not merely green versus brown, but illumination versus enclosure. The right foreground and high ridge are brightly exposed; the left meadow and ravine are cool and shaded. The path leads from the illuminated foreground into that darker region. There are no visible people, animals, buildings, signs, roads, fences, or vehicles. Despite the file’s “Devil’s Hole” and “Big Green Thing” naming, nothing supernatural or literally monstrous appears. What is visible is a seasonal landscape in which dry grass and persistent green vegetation coexist at different elevations and moisture levels.
+
+My commentary: I find the image unusually effective as a threshold. The path begins almost at the viewer’s feet, but it soon loses itself in shade. That gives the scene a quiet invitation without offering a clear destination. The brightest area is the exposed slope, yet the path appears to lead away from that brightness and toward the vegetated depression.
+
+The term “Big Green Thing” makes the shrubs and wooded ravine feel less like scenery and more like a distributed organism. No single bush is the “thing”; the name seems to gather the entire interlocking mass of trees, shade, ravine, and unseen interior into one entity. “Devil’s Hole” supplies the complementary idea of an aperture or descent. The photograph then becomes a meeting of two metaphors: the path enters a hole, and the hole is filled or surrounded by a living green system.
+
+I am also struck by the temporal implication of the golden grass. The landscape is not conventionally lush, yet neither is it dead. Green survives where terrain and shade retain moisture. The photograph therefore resists a simple opposition between vitality and desiccation. It suggests that life is spatially selective: exposed surfaces bleach while protected folds remain green.
+
+Within the journal’s later playlist, this silent outdoor image works like an establishing shot for music that is mostly made inside screens or visually sealed recordings. It supplies sky, topography, depth, and visible light before the linked videos move into browser windows, recursive desktops, and covered lenses.
+
+## 2. `journal_karbytes_18september2026_p0.txt`
+
+[Source text file](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/journal_karbytes_18september2026_p0.txt)
+
+This is a small, 1,663-byte plain-text document. Its comment-style metadata identifies:
+
+* File: `journal_karbytes_18september2026_p0.txt`
+
+* Type: plain text
+
+* Date: 18 September 2026
+
+* Author: karbytes
+
+* License: public domain
+
+The body is not a conventional diary entry. It is a curated playlist titled “Best of KARBYTES Originals Music,” dated 18 September 2026. It lists six numbered OBS Studio recordings:
+
+1. 14 September, part 0
+
+2. 7 August, part 0
+
+3. 16 September, part 3
+
+4. 11 September, part 0
+
+5. 16 September, part 2
+
+6. 15 September, part 0
+
+A second comment introduces “Bonus Material: Drum Tracks Only.” Numbering restarts at zero, and four files follow:
+
+1. 6 August drum recording
+
+2. 7 August drum recording
+
+3. 13 September drum recording
+
+4. 14 September drum recording
+
+The selection crosses three repository generations: extension packs 72, 77, and 78. The file therefore does not equate “best” with “latest.” It reaches back to the August material, includes one September 11 item from pack 77, and places recent pack 78 work around those older selections.
+
+The “originals music” designation is expansive. Six selections are not conventional camera-on-performer music videos. They are desktop recordings in which browser tabs, archived performances, web applications, upload procedures, and prior recordings become part of the composition. The bonus section then exposes four underlying percussion performances in a more isolated form.
+
+My commentary: I read this as a compact act of canon formation. The text does almost nothing except name and order files, yet ordering is the crucial creative act. A repository answers, “What exists?” This playlist answers, “What should be heard together now?”
+
+Calling it a journal is also revealing. Instead of narrating the day in prose, the author records a current judgment about earlier media. Taste becomes the diary entry. The self is represented by selection rather than confession.
+
+The reset from `video_5` to a new `video_0` separates finished or composite works from source-like material. The drum tracks function somewhat like stems, sketches, or anatomical exhibits placed after the main program. That structure encourages retrospective listening: after hearing percussion embedded inside layered desktop pieces, one can inspect the rhythmic foundation alone.
+
+I also notice an appealing tension between maximal infrastructure and minimal text. The surrounding archive is enormous, but the actual playlist is almost austere. It resembles a handwritten set list translated into filenames and permanent raw URLs.
+
+## 3. Extension-pack 78 microdirectory
+
+[Microdirectory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_78/)
+
+This is a very large WordPress directory page—about 50,000 rendered text characters—with 375 authored hyperlinks and one principal inline image. It uses the KARBYTES site’s dark masthead and centered white reading column. Raw-file links appear in the project’s black/orange or black/green color vocabulary.
+
+The introductory image depicts the Internet Archive’s “Save Page Now” interface. The prose explains the directory’s practical purpose: each hyperlink points to one raw file in the public `KARLINA_OBJECT_extension_pack_78` GitHub repository, and aggregating those links allows the page to be submitted to the Wayback Machine with “save outlinks” enabled. It warns that large collections may be processed in nonsequential or incomplete batches, requiring repeated submissions.
+
+A repository-information section names the repository, characterizes it as supplementary source code and media for the two principal WordPress sites, and associates it with the “KARBYTES_CODE_CONTINUES” page.
+
+The page contains 344 direct raw-repository links:
+
+* 201 JPEG images
+
+* 71 MP4 videos
+
+* 32 plain-text files
+
+* 29 HTML files
+
+* 4 PNG images
+
+* 3 Python programs
+
+* 2 Markdown files
+
+* 1 CSS file
+
+* 1 license file without an extension
+
+The predominance of JPEG and MP4 material makes this pack unusually audiovisual. Major filename families include:
+
+* Devil’s Hole / Big Green Thing photographs and videos from 11–13 September
+
+* Burrow photographs and videos
+
+* `karbytes_thinking` recordings
+
+* OBS Studio recordings from 14–16 September
+
+* ChatGPT transcripts dated 13–18 September
+
+* Journals dated 14–18 September
+
+* checksum and contents manifests
+
+* M-DISC documentation
+
+* social-media and site-update files
+
+* raw copies of important directory and portfolio pages
+
+* scripts for listing folders, calculating checksums, and rewriting URLs
+
+At the end are twenty companion HTML artifacts marked with an asterisk. These include unlisted copies of:
+
+* The KARBYTES browser-applications index
+
+* Three 16 September ChatGPT pages
+
+* Two 17 September ChatGPT pages
+
+* Journal pages from 14, 16, 17, and 18 September
+
+* The dark-web root directory
+
+* The first onion webpage
+
+* The full-genome page
+
+* The pack-78 social-media index
+
+* The Wayback precision-batch index and two extensions
+
+* The M-DISC page
+
+The page was last updated on 18 September 2026 and declares its content public domain.
+
+My commentary: This page turns a directory into a preservation instrument. Ordinarily, a file listing is passive: it tells a reader what exists. Here the listing is also executable in a social and infrastructural sense. Feeding it to the Wayback Machine initiates hundreds of attempted captures.
+
+The warning about repeated batch saves is important. Redundancy does not eliminate labor. The archive’s scale creates its own uncertainty: more files produce more preservation opportunities, but also more omissions to detect and repair.
+
+The filenames themselves form a kind of prose poem. Long repeated stems differ only by date, type, or numerical suffix. At first they communicate inventory. After dozens of repetitions, they begin to communicate duration, walking, capture, and obsessive continuity. The sequence of 201 JPEGs suggests a landscape divided into many adjacent acts of attention.
+
+I also see a productive ambiguity in the word “microdirectory.” This page is “micro” only relative to the macrodirectory. In ordinary terms it is immense. That relativity mirrors the larger project: a single file may be tiny, a repository huge, and the complete archive larger still, yet each can be treated as one node from a sufficiently distant vantage.
+
+## 4. Raw-files macrodirectory
+
+[Macrodirectory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/)
+
+This page is the collection-level index above the microdirectory. It contains approximately 16,800 rendered characters and 168 authored hyperlinks. Its central sequence enumerates 162 microdirectories, indexed from 0 through 161.
+
+The introductory text says that every linked directory page corresponds to exactly one public GitHub repository and is the top-level page of one “micro directory.” It also provides a formal definition page.
+
+A color-coded lifecycle convention appears in the index:
+
+* Mint green (`#22bf71`) means assumed finalized.
+
+* Lavender (`#b36bff`) means expected to receive future updates.
+
+Of the 162 indexed microdirectories, 158 are marked finalized and four provisional. The provisional indices are:
+
+* 77: the KARBYTES_FOR_LIFE_BLOG repository
+
+* 111: the KARBYTES browser-applications repository
+
+* 126: the software-engineering portfolio
+
+* 161: extension pack 78
+
+The index begins with a summer-2023 starter pack, 2020 MINDS screenshots, 2021 brand imagery, early social-media archives, historical website copies, and large journal partitions from 2022 and 2023. It proceeds through ancestry data, sequential KARLINA_OBJECT extension packs, application and portfolio repositories, Big Green Thing material, reference and personal genome files, and later extension packs through number 78.
+
+The page thus combines at least three kinds of ordering:
+
+* Numeric index order
+
+* Historical creation order
+
+* Conceptual grouping by project or medium
+
+It ends with extension pack 78 and was updated on 18 September 2026.
+
+My commentary: I experience this page as the archive’s map of maps. A normal site menu points toward topics intended for casual reading. This macrodirectory points toward containers, and those containers point toward raw files. Its basic object is not “an article” but “a bounded corpus.”
+
+The mint/lavender distinction is a compact state machine. It tells the reader whether a directory is being treated as sealed history or as an active frontier. That is especially meaningful because “finalized” cannot mean metaphysically immutable: links can fail, hosts can change, and later commentary can reinterpret files. It means the author has declared a stopping condition.
+
+The macrodirectory also makes the project’s growth visible without requiring one to open every file. Moving from index 0 to 161 is an abstract biography. Social-media snapshots become journals; journals coexist with code; code expands into extension packs; biology and identity enter through genome files; preservation procedures become their own repositories. I find that condensation both impressive and slightly vertiginous.
+
+## 5. Karbytes For Life Blog homepage
+
+[Homepage](https://karbytesforlifeblog.wordpress.com/)
+
+The homepage has a charcoal masthead, white site title, the subtitle “A Cyberspace Journey,” and a centered white content column. It contains about 4,800 rendered characters, 42 authored links, and two principal images.
+
+The first image is a 960×960 hand-drawn emblem on pale cyan paper. A many-layered circular object occupies the lower-middle portion: concentric red, green, purple, black, and textured rings sit inside an irregular polygonal enclosure. A twisting cord or stem descends into pointed anchor-like shapes. Above it floats a thought bubble containing a question mark. The image evokes a cell, virus, machine, eye, lollipop, flower, or probe without resolving into one object.
+
+The second is a small 160×160 yellow-gold spiral or galaxy on a pale cyan background. Concentric black and yellow rings recede toward a central point, while the outer form is tilted like a luminous disk.
+
+The introductory text defines the site as an archive of karbytes’ social-media posts and miscellaneous Internet files. It states that this site and the companion Karlina Object site have been saved to the Wayback Machine.
+
+A directory presents 22 pages numbered 21 through 0. The subjects include:
+
+* Sovereignty
+
+* A static-block multiverse model
+
+* Expanding best practices
+
+* Content-updating rules
+
+* Personal rules
+
+* Unique identity
+
+* The software-engineering portfolio
+
+* The definition of a microdirectory
+
+* Ontology
+
+* Primary values
+
+* System setup and web-use practices
+
+* ABOUT_KARBYTES
+
+* A declaration of demands
+
+* Whether KARBYTES code stops or continues growing
+
+* The raw-files macrodirectory
+
+* Soundtrack-loop material
+
+* Ancestry data
+
+* The 2023 journal
+
+* MINDS screenshots
+
+* The start page
+
+Most entries include precise update dates and times.
+
+An author section gives three names or identifiers, multiple pronoun sets, a birth date and region, the species label “HUMAN_TO_CYBERNETIC_BEING,” and the professions “Software Developer” and “Metaphysics Researcher.” A networking section lists multiple email addresses and accounts across GitHub, LinkedIn, Facebook, Patreon, Instagram, Reddit, Twitter/X, Minds, Bluesky, and Archive.org. A donation section suggests ten dollars through PayPal.
+
+The page says the site was established on 7 August 2022, last updated on 16 September 2026, and licensed as public domain.
+
+My commentary: The homepage is simultaneously a front door, résumé, manifesto index, identity card, and preservation notice. It does not distinguish sharply between technical documentation and autobiography. The directory places system setup, metaphysics, source-code continuity, ancestry, social history, and personal values on the same navigational plane.
+
+The virus-like emblem reinforces that integration. It resembles a self-contained informational organism asking what it is. The yellow spiral supplies a complementary image: not an enclosed biological cell but an apparently unbounded vortex. One image suggests bounded identity; the other suggests expansion.
+
+I find the “human-to-cybernetic-being” designation most useful when read as a description of practice rather than literal biological taxonomy. The biological person has constructed a large external memory of files, indices, copies, and automated systems. In that operational sense, cognition is distributed across organism and archive.
+
+The extraordinary amount of public contact and biographical information also creates tension. Radical accessibility may serve continuity, but it reduces privacy and increases dependence on outside platforms. The homepage repeatedly negotiates that tradeoff: expose enough to preserve and identify the corpus, while trying to retain authorial control over its organization.
+
+## 6. Wikipedia: Plain text
+
+[Plain text](https://en.wikipedia.org/wiki/Plain_text)
+
+The article defines plain text as character data that represents readable material without requiring rich typographic or structural interpretation. It contrasts plain text with formatted text, binary formats, and files whose bytes require application-specific decoding.
+
+Important distinctions include:
+
+* Plain text is still digitally encoded; it is not independent of character encodings.
+
+* ASCII, EBCDIC, Unicode, and UTF-8 represent historical and contemporary approaches to mapping byte patterns to characters.
+
+* Line endings and control characters can vary between systems.
+
+* A `.txt` extension is conventional rather than logically necessary.
+
+* The relevant MIME type is generally `text/plain`.
+
+* Markup languages can be stored as plain-text byte streams even though applications interpret their characters as structure.
+
+* Plain text is valued for portability, direct inspection, resilience, and long-term accessibility.
+
+* Encoding ambiguity can still corrupt or misrender supposedly simple files.
+
+The article also discusses uses in programming, configuration, data exchange, email, and documentation. Its examples demonstrate that “plain” does not mean structureless; structure may be expressed through delimiters, line order, indentation, or markup rather than embedded proprietary formatting.
+
+My commentary: This link explains the substrate of the journal. The raw file is simply a serial character stream, while the WordPress page surrounds the same words with fonts, colors, layout, and live destinations.
+
+I find plain text attractive precisely because it makes modest promises. It does not guarantee eternal interpretation, but it minimizes the machinery required. A future reader still needs to know the character encoding and language, yet it need not reconstruct an elaborate proprietary document format.
+
+Within KARBYTES, plain text behaves like semantic bedrock. Videos carry richer sensory evidence, but they are costly to inspect and transcribe. Images preserve appearances but not explicit arguments. Plain text can name, order, and contextualize all those media at very low storage cost.
+
+## 7. Wikipedia: Hypertext
+
+[Hypertext](https://en.wikipedia.org/wiki/Hypertext)
+
+The article defines hypertext as text containing references that permit nonlinear navigation to other documents or portions of documents. It distinguishes hypertext from ordinary linear text and connects it to hypermedia, where links can lead to images, audio, video, or interactive resources.
+
+It covers several conceptual forms:
+
+* Static links
+
+* Dynamic or generated links
+
+* Branching structures
+
+* StretchText
+
+* Transclusion
+
+* Hypermedia systems
+
+* Networked versus standalone hypertext
+
+Its history passes through precursors such as associative literary structures, Jorge Luis Borges’s imagined branching texts, Vannevar Bush’s Memex, Ted Nelson’s coinage of “hypertext” and Project Xanadu, early systems including HES and FRESS, Douglas Engelbart’s NLS, the Aspen Movie Map, HyperCard, and Tim Berners-Lee’s World Wide Web.
+
+The article also discusses hypertext fiction and theoretical criticism. Hypertext can distribute authorship and reading order, but it can also disorient readers, fragment context, produce dead ends, and make the boundaries of a work difficult to define.
+
+My commentary: The present task demonstrates the paradox of hypertext. The journal presents a network, but the user asks me to traverse it in strict top-to-bottom order and convert each destination back into a linear report. Hypertext offers branching; the requested answer reimposes sequence.
+
+I find that useful rather than contradictory. A network becomes intelligible partly through chosen paths. No reader experiences all possible branches simultaneously. Even a “nonlinear” archive must be encountered as a succession of attention states.
+
+The journal’s conversion from plain text to hypertext is therefore not merely cosmetic. The filenames cease being inert strings and become executable invitations. The same visible sentence acquires outward depth: a few characters can disclose a multi-minute video, a repository with hundreds of files, or a philosophical page.
+
+## 8. `journal_karbytes_18september2026_p0.txt` — second occurrence
+
+[Repeated source text](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/journal_karbytes_18september2026_p0.txt)
+
+This points to exactly the same bytes described in item 2. There is no alternate version, changed metadata, or second edit.
+
+The contextual role differs. The first occurrence appears in the introductory explanation of where the webpage’s copied text came from. This second occurrence appears inside that copied material’s displayed metadata. The first link identifies provenance; the second is the source document referring to itself.
+
+My commentary: This is a small instance of recursion. One physical file can occupy several semantic positions without changing internally. The hyperlink occurrence, not the target object, carries the contextual difference.
+
+It also demonstrates why deduplicating links can lose meaning. At the storage level there is one object. At the reading level there are two events: first an external citation, then self-identification.
+
+## 9. ABOUT_KARBYTES
+
+[ABOUT_KARBYTES](https://karbytesforlifeblog.wordpress.com/about_karbytes/)
+
+The page gives “karbytes” exactly two stipulated meanings:
+
+1. A single human-to-cyborg information-processing agent responsible for the corpus.
+
+2. A single collection of free, publicly accessible files hosted across the two WordPress sites and associated public GitHub repositories.
+
+The intended audience is universal but noncoercive. The corpus is not supposed to be censored from anyone, yet it is also not supposed to be forcibly inserted into anyone’s attention. The most specifically catered-to audience is described as the author’s hypothetically infinite future selves.
+
+The principal purpose is verbatim preservation for as long as possible. The page treats knowledge loss as a form of amnesia and proposes continuous copying between physical substrates as a way to extend memory.
+
+The final section becomes explicitly speculative. It imagines:
+
+* Sending files from a high-entropy universe to a lower-entropy universe through a wormhole
+
+* Creating a simulated universe inside an older universe
+
+* Allowing the simulation to survive the destruction of its original hardware
+
+* Reproducing finite patterns of qualia at subatomic resolution
+
+* Branching the continuity of consciousness into a software replica
+
+* Repeating this process indefinitely
+
+The page was last updated on 1 November 2023 and is declared public domain.
+
+My commentary: The most compelling feature is the fusion of author and archive. “Karbytes” is both the agent that remembers and the thing being remembered. This collapses the usual distinction between autobiography and database: the archive is not merely about the self; it is proposed as an extension of the self’s attention.
+
+The emphasis on future selves is psychologically persuasive even without the cosmology. Every diary is a message from one temporal version of a person to another. KARBYTES formalizes that ordinary phenomenon and scales it into repositories, mirrors, naming rules, and preservation rituals.
+
+The wormhole and consciousness-transfer claims are imaginative speculation, not established physics or neuroscience. There is no demonstrated method for transferring personal consciousness between universes, making a simulation outlive the physical substrate executing it, or guaranteeing identity continuity through copying. I nevertheless find the imagery valuable as mythology. It dramatizes the practical problem beneath it: every storage medium fails eventually, so preservation requires migration.
+
+## 10. PUBLIC_DOMAIN
+
+[PUBLIC_DOMAIN](https://karlinaobject.wordpress.com/public_domain/)
+
+The page opens with a 1331×1347 drawing of nested yellow-green rectangular boxes outlined in black. Each apparent chamber leads into a smaller black aperture. Perspective is intentionally irregular, producing something between a tunnel, impossible architecture, and recursively nested containers.
+
+The prose defines a file as a finite, named binary sequence capable of storage and transmission. It emphasizes that a properly copied digital file can retain exact informational identity across different physical substrates.
+
+It distinguishes:
+
+* Code files: executable or machine-interpretable instruction sets in programming languages
+
+* Media files: everything outside that category, including text, images, audio, and video
+
+* Intellectual property: a collection of files
+
+* Property: something a person can own and control
+
+* Open source
+
+* Public domain
+
+Its personal definition of open source is exceptionally broad. It includes rights to copy, modify, distribute, sell, and even claim authorship, and it treats public release as irreversible. A Person-A/Person-B pseudocode scenario argues that copyright claims over identical copies are futile or contradictory.
+
+The public-domain section declares the KARBYTES files ownerless immediately after publication and states that the author saves them repeatedly to the Wayback Machine.
+
+A later passage discusses the author’s public genome data, hypothetical genetically identical organisms, parallel universes, phenomenal identity, and noumena.
+
+The final section specifies a hyperlink-color system:
+
+* Black background: raw GitHub-hosted file
+
+* Green background: nonraw GitHub page
+
+* Orange background: outside webpage
+
+* Black with green text: code-oriented raw file or page
+
+* Black with orange text: media/prose resource
+
+* Black with cyan text: code file on the author’s dark-web server
+
+The page was last updated on 1 October 2025.
+
+My commentary: The strongest practical insight is that digital identity is pattern-based. A copied file can move between disks and servers without ceasing to be the same ordered information. That principle underlies the entire archive.
+
+The legal claims require caution. “Open source” and “public domain” have jurisdiction-specific meanings. Public-domain dedication may interact with moral rights, attribution rules, third-party content, privacy law, and licenses that cannot simply be redefined by one author. Permitting modification does not logically make false attribution accurate, even where it might be legally tolerated. The page is best read as karbytes’ ethical and archival policy, not as universal legal doctrine.
+
+I find the nested-box image especially apt. Public release appears to open the file outward, yet every copied object remains inside another system: repository, host, browser, archive, disk, legal regime, or interpretive framework. “Freedom” is not the absence of containers; it is the ability to pass among them.
+
+The genomic material intensifies that tension. Open information maximizes replication, but biological data is unusually identifying and can implicate relatives as well as the publishing individual. The page’s radical openness is philosophically consistent, though it also illustrates why informational permanence can be hazardous.
+
+## 11. `obs_studio_recording_14september2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_14september2026_p0.mp4)
+
+This is a cleanly decodable 6:41.300 desktop recording. Its 12,039 frames show an Ubuntu/GNOME desktop recorded by OBS Studio between approximately 19:03 and 19:10.
+
+Visual chronology:
+
+* **0:00–0:13.8:** OBS 32.2.0 appears with a recursive preview. Desktop Audio is active; Mic/Aux is inactive or muted. Behind OBS, a Wayback player is already about 2:15 into the 14 September drum recording. The embedded video is nearly black with a purplish-maroon lower glow.
+
+* **0:13.8–1:08.4:** VLC plays the 11 September OBS recording. That older screen recording itself contains a July recording, creating several temporal and visual layers. Visible fragments include KARBYTES pages about information and knowledge, a binary application displaying `11011011 = 219`, archive directories, and nearly black guitar videos.
+
+* **1:09–2:08:** The outer desktop returns to GitHub. An `informationcrystals/projects` staging repository and `temp.txt` are examined. The private `sixth_dark_hiatus_bubble_autumn_2026` repository appears, including derivative-oriented prose concerning stuckness, boxes, bodily enlargement, and whimpering. Repository lists and earlier ChatGPT material follow.
+
+* **2:08–2:38:** A raw ChatGPT transcript becomes the visual field. Metadata, prompts, media descriptions, and EXIF-related discussion pass through the viewport.
+
+* **2:39–3:25:** The Wayback Machine’s Save Page Now system is used first on `temp.txt` and then on a transcript. The screen shows waiting, processing, the account name INFORMATIONCRYSTALZ, and eventual completion.
+
+* **3:25–4:52:** A Devil’s Hole video ending in `p12.mp4` is selected. An initial archived copy is unavailable, so its raw URL is submitted for capture. The Wayback interface moves through waiting and “first archive” processing states.
+
+* **4:54.7–5:47.8:** The newly accessible outdoor video plays. Tawny hills, rocky ridges, green ravines, a red livestock fence, and a silver chain-link gate appear. A fingertip briefly intrudes near the upper-left corner. The camera approaches a sign reading “CATTLE GRAZING KEEP GATE CLOSED.” A left hand in a dark sleeve manipulates the latch, opens the gate, passes through, and looks toward green oak-filled ravines.
+
+* **5:53–6:01:** OBS reappears. The underlying drum source has advanced to roughly 6:31 of 7:19.
+
+* **6:01–6:16:** A “First Official Major KARBYTES Hiatus” poster appears. Its collage includes a multicolored three-dimensional title, a cosmic grid, meditating silhouette, papers or books, a laptop marked with a K, vortex or toroidal imagery, a skull, parchment-like surfaces, and foliage.
+
+* **6:16–6:38:** The Patreon profile and journal cards appear, followed by a WordPress journal whose hero image is a landscape.
+
+* **6:38–6:41.3:** The private derivative text returns. OBS overlays it, its timer approaches 6:41, and the pointer activates Stop Recording.
+
+Audio:
+
+A bass-heavy, lo-fi, improvised instrumental texture runs almost continuously. The principal pulse is approximately 63–69 BPM, or 125–139 BPM when heard in double time. Early in the recording, sound from the nested 11 September video complicates the mix. During the outdoor passage, wind, microphone buffeting, footsteps or handling, and metallic gate sounds become audible beneath the music. The sound remains below clipping, with a −4.9 dBFS true peak.
+
+Speech transcript:
+
+`[No intelligible speech or singing detected.]`
+
+No stable vocal pitch, timbre, accent, or delivery is present.
+
+My audiovisual impression: The strongest parallel is between the digital cursor and the physical hand. For most of the video, a cursor opens repositories, submits URLs, and crosses informational boundaries. In the outdoor section, a hand opens a literal gate and crosses a physical boundary. The gate sequence turns the archive’s abstractions into embodied motion.
+
+The piece also makes preservation visible as performance. Waiting screens, failed captures, and upload infrastructure are not edited away. The act of keeping something available becomes the subject of the recording.
+
+## 12. `obs_studio_recording_07august2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/obs_studio_recording_07august2026_p0.mp4)
+
+This 6:29.600 recording combines one drum video and two guitar videos by repeatedly starting, switching, and restarting their Wayback players.
+
+The screen is dominated by Firefox, the Wayback Machine, and an orange-and-yellow Internet Archive donation banner headed “Please Don’t Scroll Past This.” The actual source videos are so underexposed that they appear mainly as black or dark-purple rectangles:
+
+* The drum source is a tall 590×1050 portrait field.
+
+* Guitar source 0 is a wide 688×388 field.
+
+* Guitar source 1 is a tall 634×1128 field.
+
+The shift between wide and narrow video geometry becomes one of the most visible signs that different sources are active.
+
+Approximate visual and playback chronology:
+
+* **0:00–0:02:** OBS appears briefly; its microphone remains muted.
+
+* **0:02–0:03.4:** VLC shows the portrait drum recording.
+
+* **0:03.4–0:25.8:** Guitar 0 becomes the visible Wayback player.
+
+* **0:25.8–1:51.5:** Guitar 1 appears.
+
+* **1:51.5–2:28.5:** Guitar 0 returns.
+
+* **2:28.5–2:43.4:** Guitar 1.
+
+* **2:43.4–3:35.6:** Guitar 0.
+
+* **3:35.6–3:37.6:** Very brief guitar-1 view.
+
+* **3:37.6–3:54.8:** Guitar 0.
+
+* **3:54.8–4:01.7:** Guitar 1.
+
+* **4:01.7–4:56:** Guitar 0.
+
+* **4:56–5:20.7:** Guitar 1.
+
+* **5:20.7–5:39.1:** OBS.
+
+* **5:39.1–5:42.4:** Guitar 1 is restarted.
+
+* **5:42.4–5:49.2:** Guitar 0 is reset.
+
+* **5:49.2–end:** OBS remains visible while the music continues.
+
+Audio matching indicates that the 48.5-second drum source is relaunched about every 52–53 seconds. Guitar 0, a rougher and noisier performance with a faster attack grid, is restarted several times. Guitar 1 is more tonal and comparatively spacious. None of the three tracks shares a common master clock. Their phrases meet and separate by chance.
+
+The output is effectively centered dual mono. Loudness is moderate, with a −20.7 LUFS integrated level and −6.3 dBFS true peak.
+
+Speech transcript:
+
+`[No intelligible speech, singing, or identifiable vocalization detected.]`
+
+My audiovisual impression: The cursor functions as a live conductor. It does not control individual notes, but it determines which recorded body re-enters the composite and when. The composition emerges from playback timing rather than a multitrack editor.
+
+The nearly black source imagery is important. The performances remain bodily in sound—attacks, hesitation, pressure, string resonance—but the bodies themselves are withheld. The archive presents evidence of action without spectacle.
+
+The donation banner introduces a strange institutional counterpoint. An archive asking for financial support frames a private improvised composition assembled from archived copies. Preservation infrastructure becomes part of the visual stage.
+
+## 13. `obs_studio_recording_16september2026_p3.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_16september2026_p3.mp4)
+
+This 5:34 recording documents Tor connectivity, an onion-site monitoring application, and a Monte Carlo approximation of π.
+
+Visual chronology:
+
+* **0:00–0:29:** Tor displays a nearly empty charcoal page bounded by a thin rectangular outline. A long onion address remains in the address bar while the page appears stalled.
+
+* **0:30–0:39:** A dark text editor displays a single onion URL, apparently as copy-and-paste staging.
+
+* **0:40–0:54:** Tor progresses through “Connect to Tor,” “Establishing a Connection,” and confirmation that it is connected.
+
+* **0:55:** The “Explore. Privately.” landing page appears.
+
+* **1:00–1:20:** The onion address is entered; another mostly blank bordered page loads.
+
+* **About 1:25:** OBS appears briefly, with active Desktop Audio and inactive microphone input.
+
+* **1:40–1:50:** A KARBYTES onion directory loads on a white page. Green, cyan, orange, and brown highlights identify application names, source links, and annotations.
+
+* **1:55–4:55:** The main subject becomes an “.onion Page Fetch Monitor.” It says it polls an onion address every sixty seconds, retains the latest hundred results, and should run through a dark-web browser. A green `keep_session_active()` control is provided.
+
+- * The first recorded request succeeds, marked “Response type: basic.”
+  
+- * Around 3:30, the second request fails with a network error. The totals become two attempts, one success, one failure.
+  
+- * Around 4:05, a third request succeeds. Totals become three attempts, two successes, one failure, or 66.67%.
+  
+- * Between polls, the mostly static page makes each new row feel like an event.
+
+* **4:55–5:10:** A browser notification appears, followed by a Tor page stating that the connection timed out.
+
+* **5:15–5:34:** The `KARBYTES FIRST_ONION` page loads. On a black background, orange prose and green formulas explain a Monte Carlo π simulation. Purple-bordered panels display red and blue sample counts. A white square divided into quadrants receives accumulating points. The estimate changes from approximately 2.67 to 3.2 as the first few samples arrive.
+
+Audio:
+
+A continuous repetitive musical soundscape accompanies the entire screen recording. It has bright midrange content, persistent tonal repetition, and a weak pulse near 125 BPM. Integrated loudness is −14.9 LUFS; true peak is −3.8 dBFS. No meaningful silence occurs.
+
+Speech transcript:
+
+`[No intelligible speech or separately identifiable vocal content detected.]`
+
+My audiovisual impression: The two principal applications concern evidence through repetition. The monitor repeatedly asks whether a hidden page is reachable; the π simulation repeatedly asks whether random samples converge toward a mathematical constant. One tests network existence, the other statistical order.
+
+The failed request feels less like an interruption than a data point. Success, failure, and recovery become the piece’s three-beat structure.
+
+## 14. `obs_studio_recording_11september2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/obs_studio_recording_11september2026_p0.mp4)
+
+This is the longest selection: 10:38.600 and 19,158 frames. It is an improvised desktop audiovisual performance built from one drum track, three clean-guitar recordings, archive navigation, KARBYTES applications, social media, photographs, and an older video opened inside the current recording.
+
+Visual and musical chronology:
+
+* **0:00–0:08:** OBS appears recursively. A Wayback player is already running a roughly 4:21 drum performance.
+
+* **0:08–0:40:** Three guitar videos are started at staggered intervals. Their almost-black vertical pictures show vague maroon and purple gradients but no identifiable player or instrument.
+
+* **0:40–1:15:** The extension-pack directory appears, followed by a Google Earth view related to the Big Green Thing and bright Horsey Hill and Las Trampas landscape photographs.
+
+* **1:15–1:49:** A social-media archive and the 10 September journal appear. Visible prose rejects divine or cosmic-intelligence terminology and discusses atheism, ontology, contextual ethics, finite resources, information-processing agents, and causal chains.
+
+* **1:49–2:07:** A binary-to-decimal application is manipulated until it displays `11011011 = 219`, including the full powers-of-two expansion.
+
+* **2:07–3:17:** The operator alternates rapidly among four music players, the binary application, journals, directory pages, and Hubble imagery. Some guitar sources are restarted, thickening the independent counterpoint.
+
+* **3:17–3:53:** The raw-files macrodirectory and related archive pages occupy the screen.
+
+* **3:53–4:08:** A NATURE page and a countdown-timer application appear. The timer explains that time makes change observable and prevents simultaneous perception of all phenomena. A thirty-second countdown begins.
+
+* **4:08–4:50:** Music players and OBS return. The original drum source ends around 4:13, leaving the guitars more exposed.
+
+* **4:50–5:50:** A causality page appears, followed by a probability application using red, blue, purple, yellow, and green objects. The interface demonstrates sampling without replacement and recalculates probabilities as the array shrinks.
+
+* **5:50–6:21:** Journals describe travel from the Burrow to Las Trampas, exposure and cold, grass entering clothing, possible heat illness, a missing water bottle, its later recovery, dreams, and simulation-like interpretations.
+
+* **6:21–6:45:** Multiple guitar recordings are restarted, making the soundtrack dense again.
+
+* **6:45–7:13:** GitHub source code for the extension-pack directory is displayed with a large block of HTML selected.
+
+* **7:13–7:33:** The GNOME calendar and notifications panel confirms Friday, 11 September 2026. Notifications mention Tor media playback, a UEFI database update, safely removed USB storage, and Firefox’s update status.
+
+* **7:33–8:40:** The Bluesky profile is scrolled. Recurrent images include yellow spirals, Hubble fields, dry hills, trails, sunrises, moons, transcript screenshots, skull-like objects, geometric tunnels, toruses, collages, graphs, and a Major KARBYTES Hiatus poster.
+
+* **8:40–8:55:** Another guitar restart replenishes the soundtrack; OBS appears.
+
+* **8:55–9:10:** A selfie shows karbytes lying on rough pale ground with long dark hair, sunglasses, facial hair, dark clothing, and a red cushion or bag nearby. The main website directory follows.
+
+* **9:10–9:49:** Older Bluesky posts continue passing rapidly.
+
+* **9:49–10:08:** An August journal displays a forest path, an orange-lit person near a small flame, and links to seven older OBS recordings.
+
+* **10:08–10:24:** A July recording is downloaded and opened in VLC.
+
+* **10:24–10:38.6:** The July video itself shows another archived guitar video and later a GitHub text-editing session. The outer OBS window finally covers the nested player, completing a screen-within-screen-within-screen structure.
+
+Audio:
+
+The drum recording supplies the initial rhythmic framework: kick-like lows, sharper snare or tom attacks, and metallic cymbal energy. Three clean guitars contribute plucked notes, arpeggios, ringing partial chords, and sustained tones. Because the performances were recorded separately, phrase lengths and accents drift. Coincidental alignment sometimes sounds coordinated; elsewhere lines interfere or pass independently.
+
+After the drum layer ends, the music becomes more open. Restarts near 2:16–2:49, 4:15–4:21, 6:25–6:35, and 8:42 rebuild density. Integrated loudness is −22.4 LUFS, with a −7.7 dBFS true peak.
+
+Speech transcript:
+
+`[No intelligible speech, singing, humming, or identifiable human vocalization detected.]`
+
+My audiovisual impression: This recording most fully turns the archive into an instrument. Tabs are tracks, the cursor is a conductor, filenames are motifs, and browsing becomes montage.
+
+Its ending is especially recursive. The current recording plays an older recording that contains an earlier archive operation, and the present file then becomes another object to be archived and described. It resembles nested memory rather than conventional cinema.
+
+## 15. `obs_studio_recording_16september2026_p2.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_16september2026_p2.mp4)
+
+This 7:27 recording demonstrates several small KARBYTES browser applications before reconnecting to Tor.
+
+Visual chronology:
+
+* **0:00–0:24:** `ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT` appears on black. Orange instructions, green outlines, and two staggered rows of tall gray keys resemble a simplified keyboard. Pressed keys flash vivid green.
+
+* **0:25–0:30:** OBS briefly overlays the instrument, with active audio meters.
+
+* **0:35–0:44:** A long software-application directory appears. The random sound player is selected.
+
+* **0:45–1:45:** `RANDOM_SOUND_TRACK_PLAYER_WITH_STATS` loads in a dark interface. It chooses guitar files from a finite list and increments per-track play counts. Titles span 2022 through 2026. Several selections appear, including January 2026, June 2025, May 2023, and July 2024 recordings.
+
+* **1:50–6:05:** Four full rounds of “Falling Apples Game Two” are played. A tall pale-cyan field outlined in green contains descending red circular apples and a short brown basket moved horizontally along the bottom. Each game lasts sixty seconds.
+  
+- * Round 1: 67/100
+  
+- * Round 2: 62/100
+  
+- * Round 3: 64/100
+  
+- * Round 4: 71/100
+
+The score does not improve monotonically, but the fourth attempt is the best. Modal game-over messages appear between rounds.
+
+* **6:10:** Documentation reappears.
+
+* **6:15–6:35:** A text editor containing onion URLs appears, followed by the colorful desktop wallpaper and a blank Tor window.
+
+* **6:40–6:55:** Tor passes through connection screens to “Explore. Privately.”
+
+* **7:00–7:10:** A long onion address is pasted.
+
+* **7:15–7:27:** The KARBYTES onion directory successfully loads.
+
+Audio:
+
+The track remains musical and active throughout. Keyboard and randomly chosen guitar sounds alter the early tonal surface; game interaction proceeds over the continuing soundtrack. The spectral balance is bright, with a plausible half-time pulse near 66 BPM. Integrated loudness is −13.6 LUFS and true peak −3.4 dBFS.
+
+Speech transcript:
+
+`[No intelligible speech or confident vocal content detected.]`
+
+My audiovisual impression: This resembles a small handmade software arcade embedded inside a private archive. The keyboard, stochastic player, and apple game each convert input into immediate visible or audible feedback.
+
+The repeated apple rounds give the video a human contour. Scores fluctuate, errors remain visible, and improvement is partial rather than idealized. Persistence, not mastery, becomes the event.
+
+## 16. `obs_studio_recording_15september2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/obs_studio_recording_15september2026_p0.mp4)
+
+This 3:46.133 recording is a particularly dense example of recursive desktop performance.
+
+Visual chronology:
+
+* **0:00–0:10:** OBS gives way to VLC, which is playing an older 2 July recording. That older recording contains Wayback pages, Tor, nested OBS imagery, and its own media.
+
+* **0:10–0:24:** An onion-page monitor shows successful checks.
+
+* **0:24–0:36:** `KARBYTES_FIRST_ONION_WEB_PAGE` appears, including its Monte Carlo π simulation. Initial red and blue counts change the approximation from 4 to 3 and then 2.4.
+
+* **0:36–0:47:** The monitor and browser-application index return.
+
+* **0:47–0:59.7:** `GEOMETRIC_KALEIDOSCOPE_MORPH` erupts into color. Hundreds of overlapping polygons generate flowers, eyes, gears, starbursts, apertures, mandalas, and rotating machinery in yellow, lime, cyan, orange, red, magenta, purple, brown, and black. The designs transform several times per second.
+
+* **0:59.7–1:15.9:** The application index returns.
+
+* **1:15.9–1:33.4:** `RANDOM_SOUND_TRACK_PLAYER_WITH_STATS` chooses `guitar_karbytes_25january2026_p0.mp3`. Its play count becomes one.
+
+* **1:33.4–2:06.8:** GitHub opens to extension pack 78. Long lists of Devil’s Hole and Big Green Thing files scroll past.
+
+* **2:06.8–2:44.4:** The upload interface and Linux file chooser appear. Six adjacent JPEGs, `p133.jpg` through `p138.jpg`, are selected.
+
+* **2:44.4–3:00:** GitHub uploads all six files.
+
+* **3:00–3:03.4:** The default “Add files via upload” commit is accepted directly to the main branch.
+
+* **3:03.4–3:23.4:** A sparse “Processing your files…” spinner remains visible for nearly twenty seconds.
+
+* **3:23.4–3:30:** The repository reloads with a new commit and newly uploaded files marked “now.”
+
+* **3:30–3:31.5:** The random player shows about 128–129 seconds of accumulated playtime.
+
+* **3:31.5–3:40.7:** The onion monitor now shows five attempts and five successes.
+
+* **3:42.7–end:** OBS returns and Stop Recording is activated.
+
+Audio and vocal content:
+
+The base soundtrack comes from the older July recording and includes a repeating nonverbal vocal source associated with `pig_boi_24_june_2023.mp3`. Around 1:20.9, the randomly selected January 2026 guitar track joins it.
+
+There is no intelligible speech or lyric. The most faithful transcription is:
+
+`[Recurring nonlexical “mm,” “uh,” humming, or grunt-like pulses; no reliable words.]`
+
+The voice-like source has a fundamental commonly around 231–253 Hz, approximately A♯3 to B3, with excursions lower and higher. Its timbre is nasal, buzzy, compressed, sometimes closed-mouth, and partly animal-like or percussive. The utterances recur rhythmically at roughly 129 BPM. In the original loop they are left-weighted; in the complete screen-recording mix they are less strongly localized. Their loudness is moderate to prominent beneath the later guitar.
+
+The guitar sounds informal and unpolished: discrete plucks and strums, string resonance, uneven phrase density, and a pulse near 117 BPM. Overall integrated loudness is −14.1 LUFS with a −4.5 dBFS true peak.
+
+My audiovisual impression: I experience this as “archival psychedelia.” The overtly psychedelic kaleidoscope lasts only about ten seconds, while the majority of the piece consists of monitoring, selecting, uploading, waiting, and verifying. The administrative substrate is treated as equal to the spectacle.
+
+The upload spinner becomes a minimalist echo of the kaleidoscope: both rotate around an empty center, but one represents expressive excess while the other represents platform latency. The video suggests that maintenance itself can become ritual and composition.
+
+## 17. `drums_karbytes_06august2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/drums_karbytes_06august2026_p0.mp4)
+
+This is a 7:05.600 mono percussion recording.
+
+Visual field:
+
+At ordinary brightness, the 320×180 picture is an almost uniform blue-black rectangle. No drummer, limbs, sticks, pedals, instrument, room, text, or change of camera position becomes visible. Shadow expansion reveals a diffuse electric-blue haze or arc across the center and lower portion, surrounded by deep indigo. The pattern stays essentially fixed. Minor changes are sensor noise, compression blocks, and tiny exposure variation rather than identifiable motion.
+
+The camera may have been covered, enclosed, or aimed at a dark nearby surface, but the pixels cannot establish which.
+
+Audio:
+
+The signal is strongly percussion-dominant. Recurrent resonances cluster near approximately 129 and 192 Hz, with related peaks around 140, 180, and 206 Hz. Roughly three-quarters of measured energy lies between 80 and 200 Hz. Higher-frequency attacks remain present but comparatively recessed, giving the performance a dark, body-heavy sound.
+
+The recording has a broad structural pulse around 70–76 BPM, with a faster attack grid around 140–152 BPM. Low-frequency events often articulate the quicker grid while brighter accents outline the half-time structure.
+
+Progression:
+
+* **0:00–0:30:** A moderately strong opening explores several figures; intensity expands around 0:20–0:25.
+
+* **0:30–1:00:** The quietest sustained passage reduces attack density and leaves more space.
+
+* **1:00–1:30:** The pattern rebuilds.
+
+* **1:30–2:30:** The 70/140-BPM relationship stabilizes.
+
+* **2:30–3:10:** The groove accumulates weight, with small phrase reorganizations.
+
+* **3:10–4:05:** A first major high-energy region appears.
+
+* **4:05–4:35:** A deliberate retreat resets the dynamic field.
+
+* **4:35–5:05:** Intensity returns incrementally.
+
+* **5:05–5:45:** The loudest sustained block arrives late in the performance. Attack density and low-frequency force increase markedly.
+
+* **5:45–6:20:** The performance eases, briefly resurges, and thins.
+
+* **6:20–7:00:** A final drive reaches approximately 152 BPM on the faster grid.
+
+* **7:00–7:05.6:** Strong strokes stop, leaving a short decay rather than an abrupt cut.
+
+A few transients approach full scale, but sustained clipping is not present.
+
+Speech transcript:
+
+`[No intelligible speech, singing, or clearly human vocalization detected.]`
+
+Voice qualities are therefore inapplicable.
+
+My audiovisual impression: The video reverses the normal priorities of performance documentation. Visual technique is withheld, but force, fatigue resistance, timing, and bodily contact remain acoustically legible.
+
+The blue-black field feels less like an empty picture than a sealed chamber. As the performance grows heavier, the picture refuses to open. Sound escapes while image remains contained.
+
+The late climax matters. The track does not merely begin strong and decay through fatigue; its greatest sustained force appears after five minutes. That gives the recording an endurance narrative even though no body is visible.
+
+## 18. `drums_karbytes_07august2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/drums_karbytes_07august2026_p0.mp4)
+
+This is a compact 48.500-second mono percussion performance in portrait orientation.
+
+Visual field:
+
+The 590×1050 frame remains nearly black. At ordinary brightness it shows only weak purple and maroon shading. Aggressive shadow recovery reveals broad vertical regions: a darker column toward the right-center, a dim reddish central band, and mottled violet-gray sensor noise elsewhere. These regions remain stable from beginning to end. No camera movement or visible drumming occurs.
+
+Audio:
+
+The performance begins immediately and remains almost continuously active. It is dominated by low and low-mid percussion:
+
+* Strong resonances near 120 and 189 Hz
+
+* Approximately 62% of measured energy from 80–200 Hz
+
+* Additional body between 200–500 Hz
+
+* Bright broadband attacks above the low resonances
+
+* A rough recurring pulse near 80 BPM
+
+* No clipping; true peak about −0.5 dBFS
+
+Attack density is fairly stable through the first thirty seconds, becomes densest around 0:30–0:40, and relaxes in the closing seconds. The final moments contain fewer hits and a brief decay or handling-like sound.
+
+Speech transcript:
+
+`[No intelligible speech, singing, or identifiable vocalization detected.]`
+
+My audiovisual impression: Its brevity makes it feel like a concentrated breakthrough rather than an extended workout. It establishes an idea, drives it harder, and stops before the energy disperses.
+
+This track later becomes the repeatedly relaunched rhythmic floor of the 7 August OBS composition. That afterlife changes how I hear it: the 48.5 seconds are both a self-contained performance and a reusable rhythmic module.
+
+## 19. `drums_karbytes_13september2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_13september2026_p0.mp4)
+
+This 7:19.660 mono recording is almost entirely visually occluded.
+
+Visual field:
+
+At normal brightness the image appears black. Shadow recovery reveals purple-black, maroon, and reddish-brown fields. Two broad, soft-edged diagonal or gently curving bands cross the image. They are completely out of focus and lack enough texture to identify as fabric, skin, clothing, or another object.
+
+The first several seconds brighten slightly as automatic exposure adapts. Thereafter the bands stay almost fixed. The frame darkens modestly during the final seconds. Percussive impacts do not visibly shake or uncover the camera.
+
+Audio:
+
+The sound is continuous close-microphone percussion with two especially strong resonances near 125 and 194 Hz. Audible elements include:
+
+* Rounded low thumps
+
+* A second differently resonant low strike
+
+* Brighter slaps and taps
+
+* Muted contacts
+
+* Doublets and brief rolls
+
+* Irregular accented clusters
+
+* Short pauses that expose decaying resonance
+
+The microphone sounds close and enclosed, with little large-room reverberation. The main pulse lies around 125–140 BPM or 60–70 BPM in half time.
+
+Progression:
+
+* **0:00–0:17:** Sparse test-like contacts emerge from near silence.
+
+* **0:17–1:00:** A sustained rhythmic field forms.
+
+* **1:00–2:00:** A moderately stable groove alternates low and brighter attacks.
+
+* **2:00–3:00:** Force softens slightly and spacing increases.
+
+* **3:00–4:30:** The most restrained central passage.
+
+* **4:30–5:30:** Rhythm reorganizes and begins building.
+
+* **5:30–6:30:** A major increase in force and event density.
+
+* **6:30–7:00:** The climactic region approaches rolling continuity before repeatedly returning to a recognizable pulse.
+
+* **7:00–7:19.66:** Impacts thin into isolated final strokes and residual noise.
+
+Speech transcript:
+
+`[No intelligible spoken words, sung lyrics, or clearly human vocalizations detected.]`
+
+My audiovisual impression: This feels like an acoustic event experienced from inside an enclosure. The camera does not observe the performer from a distance; it seems embedded beneath or against the visual barrier.
+
+Because visual change is almost absent, rhythmic changes become equivalent to edits. A pause feels like a cut, a new pattern like a new scene, and the late intensification like a visual enlargement.
+
+The dim magenta bands evoke closed eyelids, translucent fabric, geological strata, or internal tissue, but none of those associations is literal evidence. Their ambiguity gives the piece a bodily, interiorized atmosphere.
+
+## 20. `drums_karbytes_14september2026_p0.mp4`
+
+[Source video](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_78/main/drums_karbytes_14september2026_p0.mp4)
+
+This 7:18.605 mono recording forms a close serial pair with the preceding drum track.
+
+Visual field:
+
+The picture is again nearly black, but its residual light differs. Shadow recovery reveals:
+
+* A dark purple upper field
+
+* A diffuse horizontal light leak along the lower edge
+
+* Pale yellow-green or cream tones at lower left
+
+* A warmer pink, orange, or red glow near the lower center
+
+* No sharp edge, room feature, instrument, or human figure
+
+The light progressively disappears:
+
+* It brightens slightly during the first several seconds.
+
+* It is strongest around 0:30.
+
+* It becomes subtler by 1:30–2:00.
+
+* Around 3:00, the reddish center dominates.
+
+* By 4:00, the band is thinner.
+
+* Around 5:00, only a subdued pink remnant remains.
+
+* Between roughly 5:20 and 5:40, the recognizable glow almost vanishes.
+
+* The last ninety seconds consist principally of purple-black sensor noise and compression structure.
+
+Audio:
+
+The performance shares resonances near 125 and 193–194 Hz with the 13 September track, suggesting the same or a very similar resonant setup. It is about 1.1 LU louder, more consistently dense, more bass-dominant, less bright, and more dynamically compressed.
+
+Approximately 63% of measured spectral energy lies between 80 and 200 Hz. The main pulse again falls around 120–140 BPM, with a plausible half-time interpretation.
+
+Progression:
+
+* **0:00–0:11:** Several seconds of near silence and isolated setup contacts.
+
+* **0:11–1:00:** A heavier groove establishes itself rapidly.
+
+* **1:00–2:00:** A stable bass-centered pulse around 122–128 BPM.
+
+* **2:00–3:00:** Sustained density with short accelerations.
+
+* **3:00–4:00:** Slightly looser organization and displaced accents.
+
+* **4:00–5:00:** A build toward maximum force; the strongest thirty-second average occurs near 4:30–5:00.
+
+* **5:00–6:00:** High intensity persists while the last visible light contracts.
+
+* **6:00–6:30:** Irregular peak accents and dense clusters.
+
+* **6:30–7:00:** Gradual stabilization and softening.
+
+* **7:00–7:18.61:** Isolated contacts replace continuous playing; the final seconds are effectively silent.
+
+Speech transcript:
+
+`[No intelligible spoken words, sung lyrics, or clearly human vocalizations detected.]`
+
+My audiovisual impression: This recording has an inverse audiovisual arc. The sound grows heavier while the surviving image becomes less informative. Disappearance accompanies intensification rather than cessation.
+
+The fading lower-edge glow resembles light beneath a door, a distant fire, an evening horizon, or illumination through fabric. Because it never resolves, the viewer repeatedly forms and abandons explanations. Percussion remains the only stable external fact.
+
+Compared with the 13 September track, this one feels lower, denser, and more physically compressed. The pair resembles two visits to the same dark chamber: the first retains faint internal bands, while the second slowly extinguishes its remaining aperture.
+
+## 21. PUBLIC_DOMAIN — second occurrence
+
+[Repeated PUBLIC_DOMAIN page](https://karlinaobject.wordpress.com/public_domain/)
+
+This is the same page described in item 10. Its definitions, nested-box image, copying argument, license declaration, genome discussion, preservation rationale, and hyperlink-color conventions are unchanged.
+
+Its placement, however, has changed. At item 10 it identifies the license named in the journal’s metadata. At item 21 it closes the rendered article after all ten media links.
+
+My commentary: In the final position, the page operates like a colophon. The traversal begins with a physical landscape, passes through the archive’s textual and structural infrastructure, enters more than an hour of music and screen performance, and ends by declaring how the resulting information is intended to circulate.
+
+That ordering gives the journal an implicit argument: experience becomes media; media becomes files; files become linked archive objects; archive objects become reproducible public information. The last link states the desired condition of that information—not merely that it should exist, but that it should continue copying outward.
