@@ -12312,3 +12312,22 @@ A third contradiction concerns public and private states. The staging repository
 The document itself participates in the process it describes. A private embodied interval becomes photographs. The photographs become prompts. The prompts become a ChatGPT conversation. The conversation becomes a plain-text file. The file becomes part of extension pack 64. It is copied into a hypertext webpage. The webpage is indexed through directory layers and declared public domain. The supposedly hidden production interval consequently becomes a highly documented canonical object.
 
 The document’s deepest subject is therefore boundary formation. KARBYTES does not eliminate the messiness of lived process. It surrounds that process with names, timestamps, repositories, manifests, rules, finalization events, and physical copies. Those structures allow a transient state—three days spent mostly prone in a sleeping bag beside a laptop and humming server—to become a persistent, interpretable component of the archive.
+
+karbytes:
+
+For each hyperlink which appears in the following web page
+
+(in the order those hyperlinks appear from the top to the bottom of that web page):
+
+(a) If the resource pointed to by the URL is a video file, then do the following:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness.
+
+(b) Otherwise:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+End if.
+End for.
+
+web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02june2026/
