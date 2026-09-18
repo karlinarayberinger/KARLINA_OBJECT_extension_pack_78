@@ -3422,3 +3422,22 @@ The 308-file snapshot is dominated by 228 Devil’s Hole and Big Green Thing med
 The page preserves every intermediate representation: unsorted records, sorted identifiers, a generic conversion rule, and the completely expanded result. Its central concern is not merely file listing but accountable transformation. It shows how objects move from compressed storage to local directory, from directory to text, from text to normalized names, from names to addresses, and from addresses to a public navigational surface.
 
 The archive is depicted as a selectively permeable system. Material begins privately, crosses technical and editorial thresholds, becomes publicly addressable, and enters a larger canonical structure. The journal itself becomes another artifact produced by that passage, ensuring that the workflow which creates the archive is also preserved inside the archive.
+
+karbytes:
+
+For each hyperlink which appears in the following web page
+
+(in the order those hyperlinks appear from the top to the bottom of that web page):
+
+(a) If the resource pointed to by the URL is a video file, then do the following:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness.
+
+(b) Otherwise:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+End if.
+End for.
+
+web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_11september2026_a0/
