@@ -2407,3 +2407,9 @@ My commentary: The control distinguishes commentary on the page from commentary 
 The final anchor is another dynamically managed carousel control. Its initial `href` is effectively empty; when an image is active, JavaScript supplies the relevant image resource so the viewer can open or download it.
 
 My commentary: It is an appropriate final link for this archive. After navigation, philosophy, video, transcription, repositories, platform governance, and metadata, the last available operation is to obtain a copy. That endpoint condenses the project’s deepest commitment: an artifact is not fully preserved merely because it can be viewed; preservation begins when it can be copied out of its current container.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_21june2026/
