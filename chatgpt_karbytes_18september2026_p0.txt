@@ -13114,3 +13114,9 @@ This final anchor also begins with `href="#"` and is hidden until an image is op
 My commentary: It is fitting that the final anchor is a replication mechanism. After links concerning identity, hypertext, licensing, archival architecture, reality, governance, and subscriptions, the last control performs the simplest preservation act: create another copy.
 
 Taken as a whole, the page is a small but remarkably dense model of the larger KARBYTES project. A nocturnal photograph leads to a source file; that file leads to repository indexes; the indexes lead to a thousand-node memory graph; a handheld video records ambivalence about maintaining that graph; a desktop video reveals the labor that produced it; philosophical links attempt to explain why preservation matters; and the public-domain link explicitly invites replication. The dominant unresolved question is whether an archive can preserve a life without consuming the life it is intended to preserve.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_01september2026_a/
