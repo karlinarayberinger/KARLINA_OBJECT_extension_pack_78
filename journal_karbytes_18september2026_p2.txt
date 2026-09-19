@@ -1,5 +1,5 @@
 /**
- * file: journal_karbytes_18september2026_p2.txt
+ * file: journal_karbytes_18september2026_p1.txt
  * type: plain-text
  * date: 18_SEPTEMBER_2026
  * author: karbytes
@@ -33,10 +33,9 @@ web_page: {web_page_url}
 
 [end preformatted_text]
 
-
 * * *
 
-// PROMPT_1: Describe the resources listed in an HTML web page.
+// PROMPT_1: Describe the resource in the format of a plain-text essay.
 
 [preformatted_text]
 
@@ -45,4 +44,3 @@ Generate a maximally detailed (plain-text only, zero-url) essay summarizing the 
 {resource_url}
 
 [end preformatted_text]
-
