@@ -4391,3 +4391,11 @@ What gives the page intellectual depth is that later versions of karbytes partia
 The two opening images ultimately provide the best visual summary. One shows a bright moon over a nearly featureless wilderness ridge at night. The other shows a dim, densely equipped room opening into bright summer foliage. Between those environments, karbytes generates and preserves itself.
 
 The wilderness supplies distance, movement, weather, solitude, and thought. The Burrow supplies memory, machinery, naming, storage, and recursive review. KARBYTES exists in the circuit between them: an embodied consciousness walking under clouds, a voice entering a phone, a file being compressed, a transcript entering a repository, a disc being burned, a page becoming public, and a future self watching the entire process while disputing what its earlier self claimed it was doing.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_23july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
