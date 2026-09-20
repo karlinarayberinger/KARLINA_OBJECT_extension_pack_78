@@ -3124,3 +3124,11 @@ The entire node map can be condensed into one governing principle:
 KARBYTES must remain durable enough to survive karbytes changing, but open enough to permit karbytes to change.
 
 That opening is the true object sought at the asymptote.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_04july2026/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
