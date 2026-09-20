@@ -3841,3 +3841,11 @@ The Big Green Thing becomes the physical environment for that recursive work. It
 The final picture is neither simple triumph nor simple crisis. It is a portrait of agency constrained by lungs, neighbors, institutions, evidence, finite attention, digital storage, upload limits, and mortality. Against those limits, karbytes builds an archive and imagines future minds capable of reading it.
 
 The last idea offers the document’s most balanced resolution: efficiency is not the only measure of worth. Even in a world of machines that think or work faster, conscious human attention may remain valuable precisely because it is situated, subjective, embodied, limited, and alive.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_21august2026_a/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
