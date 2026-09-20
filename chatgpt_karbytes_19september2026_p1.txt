@@ -26,6 +26,8 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_30august2026_a/
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_21august2026_a/
+
 * * *
 
 karbytes:
@@ -995,7 +997,9 @@ The image is 1092 by 614 pixels, progressive, in a nearly 16:9 aspect ratio, enc
 The audio is AAC-LC stereo at 48 kHz. It is extremely loud and densely layered. Loudness analysis measured approximately:
 
 * Integrated loudness: –6.1 LUFS
+
 * Loudness range: 7.3 LU
+
 * Decoder-side true-peak estimate: +7.2 dBTP
 
 That true-peak figure is consistent with severe overload, intersample overs, or clipping caused by stacking many simultaneously playing sources. The sound frequently behaves less like a polished stereo master than like numerous browser tabs and media players summed without attenuation. Early in the recording it is especially compressed, center-heavy, and almost continuously saturated.
@@ -1009,10 +1013,15 @@ The journal page categorizes this recording as `KARBYTES_video_file_8` within a 
 The most frequently visible page is `SOUND_TRACK_LOOPER_THREE`. Its aesthetic is distinctive:
 
 * Black background
+
 * Thick neon-green rounded borders
+
 * Orange headings and instructions
+
 * Cyan or green status text
+
 * Bright green start button
+
 * A very long orange drop-down menu of sound files
 
 The instructions say that one or more finite sound patterns may be played for an indefinite number of cycles. They explicitly recommend opening multiple browser tabs and staggering the start times of multiple instances so that their cycles do not coincide exactly.
@@ -1028,10 +1037,15 @@ This is why the visible page and audible foreground do not always correspond. A 
 The recording opens with OBS Studio 32.1.2 centered over Firefox. OBS shows:
 
 * One scene named `Scene`
+
 * A screen-capture source
+
 * An active Desktop Audio meter
+
 * A silent or disabled Mic/Aux channel
+
 * A blue `Stop Recording` button
+
 * A miniature recursive desktop preview
 
 The desktop-audio meter is already driven high into yellow and red. The recording is therefore underway before OBS is moved away.
@@ -1049,13 +1063,21 @@ At approximately 00:12.9, VLC jumps to the foreground and begins displaying the 
 The imagery changes much faster than the desktop material:
 
 * A long-haired woman in black dances or sings on a roadway.
+
 * Her hair whips across her face as the camera moves close.
+
 * The picture cuts to a laundromat with rows of machines and fluorescent ceiling panels.
+
 * Road and freeway footage rushes forward.
+
 * Night lights stretch into long trails.
+
 * A medical-style green waveform or heart-monitor display flashes onscreen.
+
 * The performer appears silhouetted before a luminous rotating or vortex-like background.
+
 * Her body is alternately full-length, mid-shot, and close-up.
+
 * The edits produce a breathless sensation of traffic, acceleration, electricity, and bodily motion.
 
 At about 00:24.9, VLC gives way to the looper again.
@@ -1067,8 +1089,11 @@ The looper now displays `chatgpt_karbytes_voicemode_16march2025.mp3`. Its timer 
 Over the following seconds, different looper tabs appear. Some output areas display multiple simultaneous files, including:
 
 * `pig_gorl_30_october_2023_part_2.mp3`
+
 * `pig_gorl_08_december_2023_part_1.mp3`
+
 * The ChatGPT voice-mode recording
+
 * Plaintive droning recordings
 
 One tab reports dozens of completed loops and around 1,400 elapsed seconds. These are not newly initiated sounds; they form a pre-existing rhythmic and vocal bed.
@@ -1082,19 +1107,33 @@ Around 01:15.9 the browser briefly becomes an empty gray loading surface. The lo
 At approximately 01:25.6 VLC returns to “Ray of Light.” The subsequent sequence includes:
 
 * A vehicle entering or crossing an amber-lit tunnel
+
 * The singer’s face superimposed against streaming city lights
+
 * A roadway rushing toward a blue-lit horizon
+
 * Crowds entering a nightclub
+
 * A multicolored illuminated dance floor
+
 * A breakdancer inverted or spinning on the floor
+
 * Groups surrounding dancers in a ring
+
 * Close, handheld-looking shots of sweaty, excited clubgoers
+
 * A man bending forward in a tiled restroom or back-room area while others crowd around
+
 * A mirrored disco ball
+
 * A turntable and vinyl record
+
 * Repeated close-ups of the singer gesturing directly toward the lens
+
 * Overexposed flashes that briefly bleach faces and clothing white
+
 * A rotating view of Earth against black space
+
 * Sudden returns to the dance floor
 
 The video is repeatedly covered by, or exchanged with, the looper page. The transition is not a graceful edit; it feels like the operator is changing instruments during a live desktop performance.
@@ -1108,7 +1147,9 @@ An orange drop-down menu opens around 02:46, exposing many densely named files. 
 During this interval the visible statuses include:
 
 * `the_animal_statue_into_oblivion_2010.mp3`
+
 * `plaintive_droning_by_karbytes_17march2025_p0.mp3`
+
 * The reversed Blacklodge track
 
 The Into Oblivion track appears to have been started at approximately 02:57; later views of its timer remain consistent with that origin.
