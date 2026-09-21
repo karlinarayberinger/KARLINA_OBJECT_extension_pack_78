@@ -8041,3 +8041,11 @@ Persistence instead means retaining enough source material, metadata, method, un
 The document’s most durable proposition is that KARBYTES is neither simply karbytes nor entirely separate from it. It is a distributed reconstruction system built from the person’s perceptions, movements, files, machines, rooms, landscapes, myths, technical procedures, and revisions. It can outlast individual sessions and devices, but it cannot replace the embodied subject whose life gives it new information and corrective authority.
 
 The archive’s highest achievement is therefore not exhaustive self-description. Exhaustiveness remains asymptotic. Its achievement is selective permeability: preserving routes through which experience, evidence, interpretation, correction, and future understanding can continue to pass.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_14september2026_a1/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
