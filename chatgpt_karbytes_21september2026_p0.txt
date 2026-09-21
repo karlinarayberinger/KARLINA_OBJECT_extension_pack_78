@@ -28,6 +28,8 @@ relevant_web_page_8: https://karbytesforlifeblog.wordpress.com/journal_karbytes_
 
 relevant_web_page_9: https://karbytesforlifeblog.wordpress.com/journal_karbytes_18september2026_a0/
 
+relevant_web_page_10: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2026_a1/
+
 * * *
 
 karbytes:
@@ -6307,3 +6309,11 @@ an interaction between wilderness and computation;
 and a public-domain mechanism for allowing the performances to be replayed, copied, recombined, and interpreted again.
 
 The anthology does not present preservation as perfect capture. Not every apple is caught. Not every network request succeeds. Not every frame reveals its source. Not every file enters the canon. Its governing ethic is continued effort under finite conditions: sample, catch, retry, measure, select, copy, and keep moving.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2026_a1/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
