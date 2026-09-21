@@ -38,6 +38,8 @@ relevant_web_page_13: https://karbytesforlifeblog.wordpress.com/journal_karbytes
 
 relevant_web_page_14: https://karbytesforlifeblog.wordpress.com/journal_karbytes_14september2026_a0/
 
+relevant_web_page_15: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16september2026_a2/
+
 * * *
 
 karbytes:
@@ -9635,3 +9637,11 @@ Inside the narrative, the derivative cannot escape.
 Outside the narrative, karbytes creates, edits, links, publishes, licenses, and contextualizes the derivative.
 
 The derivative remains stuck so that the archive can continue moving.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16september2026_a2/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
