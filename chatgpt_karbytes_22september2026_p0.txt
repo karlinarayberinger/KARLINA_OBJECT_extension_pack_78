@@ -1424,3 +1424,96 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
 
 Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 15m 28s]
+
+## Audit result
+
+As of September 22, 2026, the micro-directory is complete and functionally correct:
+
+* Repository `main` commit audited: `5323e9f32a7710130be3742868dcc791364bc263`
+
+* Files in the repository: **382**
+
+* Corresponding extension-pack-78 raw-file hyperlinks: **382**
+
+* Unique linked paths: **382**
+
+* Missing files: **0**
+
+* Links to nonexistent or extraneous extension-pack-78 files: **0**
+
+* Duplicate file links: **0**
+
+* Visible full URL differing from its hyperlink destination: **0**
+
+* Raw-file links returning something other than HTTP 200: **0**
+
+Thus, every repository file has exactly one corresponding full-URL hyperlink, and every such hyperlink points to the correct file.
+
+## “(*)” hyperlinks
+
+The page contains **32** hyperlinks whose normalized visible text is exactly `(*)`.
+
+* **26 WordPress pages:** All returned HTTP 200, had the expected canonical address, and displayed the same identifying name as their paired `unlisted_web_page_*.html` file.
+
+  
+* 15 `chatgpt_karbytes_*` pages covering September 16, 17, 18, 19, 20, and 21.
+  
+* 8 `journal_karbytes_*` pages covering September 14, 16, 17, 18, and 21.
+  
+* `karbytes_full_genome`
+  
+* `karbytes_social_media_posts_koep78`
+  
+* `mdisc_karbytes2026_8`
+
+* **4 GitHub Pages sites:** All returned HTTP 200 and matched the title, identity, and self-address represented by the neighboring archived HTML file:
+
+* `KARBYTES_BLOG_APPS_github_hosted_website`
+  
+* The principal Wayback Machine precision-batches index
+  
+* Precision-batches extension 0
+  
+* Precision-batches extension 1
+
+* **2 Tor onion sites:** Each `(*)` destination exactly matches the onion root address declared inside its paired HTML file. Both addresses are syntactically valid version-3 onion addresses with valid checksums. Their present live availability was not tested because that requires Tor connectivity.
+
+Therefore, all **32 `(*)` mappings are correct**. Thirty were also independently confirmed as live on the ordinary web; the two onion mappings were verified structurally and from their paired source documents.
+
+## Discrepancies and noteworthy exceptions
+
+1. **Three files are out of repository order.**
+
+The page says the links occur “in the order those files appear in that GitHub repository,” but the relevant portion currently appears as:
+
+1. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`
+   
+2. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html`
+   
+3. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html`
+
+GitHub’s actual listing order is:
+   
+1. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_0.html`
+   
+2. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html`
+   
+3. `unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_index.html`
+
+The links and their `(*)` companions are correct; only their ordering contradicts the page’s stated ordering rule. Moving the index-file link and its `(*)` companion below extension 1 would resolve this.
+
+2. **There is one intentionally out-of-scope raw GitHub link.**
+
+Above the repository-file list, the page contains an `image_link` pointing to a PNG in `KARLINA_OBJECT_extension_pack_31`. That link works and is clearly an illustrative image, not an extension-pack-78 directory entry. Consequently, the page contains **383 total raw.githubusercontent.com hyperlinks**, although exactly **382** belong to the audited repository.
+
+3. **Minor editorial error.**
+
+The introductory sentence containing “when karbytes saves the Uniform Resource Locator) of this web page)” has a misplaced closing parenthesis. This does not affect any hyperlink.
+
+No broken, missing, duplicated, mislabeled, or incorrectly targeted extension-pack-78 file hyperlink was found.
+
+If helpful, I can set up “Recheck extension-pack-78 link parity” so later repository changes are caught.
